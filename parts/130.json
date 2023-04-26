@@ -1,0 +1,19 @@
+{
+  "Library": "_Diode_Schottky",
+  "Reference": "D",
+  "Symbol": "Device:D_Schottky",
+  "Value": "BAT54J",
+  "Footprint": "Diode_SMD:D_0805_2012Metric",
+  "Description": "Schottky Diode Vf=0.32@1mA; If=200mA; Vr=30V; SOD-323F/0805",
+  "Datasheet": "https://assets.nexperia.com/documents/data-sheet/BAT54J.pdf",
+  "Keywords": "Diode Schottky",
+  "CustomFields": {
+    "MF": "Nexperia",
+    "MPN": "BAT54J,115",
+    "OC_CONRAD": "",
+    "OC_FARNELL": "",
+    "OC_LCSC": "",
+    "OC_MOUSER": "771-BAT54J115",
+    "OC_REICHELT": ""
+  }
+}

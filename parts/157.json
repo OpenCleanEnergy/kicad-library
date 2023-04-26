@@ -1,0 +1,19 @@
+{
+  "Library": "_Inverter",
+  "Reference": "U",
+  "Symbol": "74xGxx:NC7SVU04P5X",
+  "Value": "SN74LVC1GU04DBV",
+  "Footprint": "Package_TO_SOT_SMD:SOT-23-5",
+  "Description": "Inverter SOT-23-5",
+  "Datasheet": "https://www.ti.com/lit/ds/symlink/sn74lvc1gu04.pdf",
+  "Keywords": "inverter",
+  "CustomFields": {
+    "MF": "Texas Instruments",
+    "MPN": "SN74LVC1GU04DBV",
+    "OC_CONRAD": "",
+    "OC_FARNELL": "1621532",
+    "OC_LCSC": "C81934",
+    "OC_MOUSER": "",
+    "OC_REICHELT": ""
+  }
+}

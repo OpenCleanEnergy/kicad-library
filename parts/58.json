@@ -1,0 +1,18 @@
+{
+  "CustomFields": {
+    "MF": "",
+    "MPN": "",
+    "OC_FARNELL": "",
+    "OC_MOUSER": "710-860021374004",
+    "OC_REICHELT": ""
+  },
+  "Datasheet": "",
+  "Description": "Electrolytic capacitor 2.2u 400V",
+  "Footprint": "Capacitor_THT:CP_Radial_D8.0mm_P3.50mm",
+
+  "Keywords": "cap capacitor",
+  "Library": "_C_Electrolytic",
+  "Reference": "C",
+  "Symbol": "Device:C_Polarized",
+  "Value": "2.2u_400V"
+}

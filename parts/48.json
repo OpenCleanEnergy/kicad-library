@@ -1,0 +1,18 @@
+{
+  "customFields": {
+    "MF": "",
+    "MPN": "",
+    "OC_CONRAD": "",
+    "OC_FARNELL": "",
+    "OC_MOUSER": "710-150060VS75000",
+    "OC_REICHELT": ""
+  },
+  "datasheet": "",
+  "description": "LED 0603 Green",
+  "footprint": "LED_SMD:LED_0603_1608Metric",
+  "keywords": "LED Green",
+  "library": "_LED",
+  "reference": "P",
+  "symbol": "Device:LED",
+  "value": "Green"
+}

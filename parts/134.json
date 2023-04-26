@@ -1,0 +1,18 @@
+{
+  "CustomFields": {
+    "MF": "",
+    "MPN": "",
+    "OC_FARNELL": "",
+    "OC_LCSC": "C23186",
+    "OC_MOUSER": "",
+    "OC_REICHELT": ""
+  },
+  "Datasheet": "",
+  "Description": "Resistor 5K1 1% 100mW 75V 0603",
+  "Footprint": "Resistor_SMD:R_0603_1608Metric",
+  "Keywords": "Res Resistor",
+  "Library": "_R_0603",
+  "Reference": "R",
+  "Symbol": "Device:R",
+  "Value": "5K1"
+}

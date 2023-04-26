@@ -1,0 +1,19 @@
+{
+  "Library": "_Transistor_FET",
+  "Reference": "Q",
+  "Symbol": "Device:Q_NMOS_GSD",
+  "Value": "BSS123L",
+  "Footprint": "Package_TO_SOT_SMD:SOT-23",
+  "Description": "Logic Level NMOS; Vds=100V; Id=170mA; Rds_On=6Ohm",
+  "Datasheet": "https://www.mouser.de/datasheet/2/308/BSS123L-1305245.pdf",
+  "Keywords": "MOSFET NMOS",
+  "CustomFields": {
+    "MF": "ON Semiconductor",
+    "MPN": "BSS123L",
+    "OC_CONRAD": "",
+    "OC_FARNELL": "",
+    "OC_LCSC": "",
+    "OC_MOUSER": "512-BSS123L",
+    "OC_REICHELT": ""
+  }
+}

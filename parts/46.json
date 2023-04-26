@@ -1,0 +1,16 @@
+{
+  "customFields": {
+    "MF": "Nexperia",
+    "MPN": "BC817-40",
+    "OC_FARNELL": "",
+    "OC_MOUSER": "771-BC817-40-T/R"
+  },
+  "datasheet": "https://www.mouser.de/datasheet/2/916/BC817_SER-1480622.pdf",
+  "description": "45V, 500mA NPN general-purpose transistors",
+  "footprint": "Package_TO_SOT_SMD:SOT-23",
+  "keywords": "transistor npn",
+  "library": "_Transistor_BJT",
+  "reference": "Q",
+  "symbol": "Device:Q_NPN_BEC",
+  "value": "BC817-40"
+}

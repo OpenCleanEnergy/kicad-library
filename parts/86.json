@@ -1,0 +1,11 @@
+{
+  "customFields": { "MF": "", "MPN": "", "OC_FARNELL": "", "OC_MOUSER": "" },
+  "datasheet": "",
+  "description": "Resistor 1% 100mW 75V 0603",
+  "footprint": "Resistor_SMD:R_0603_1608Metric",
+  "keywords": "Res Resistor",
+  "library": "_R_0603",
+  "reference": "R",
+  "symbol": "Device:R",
+  "value": "?"
+}

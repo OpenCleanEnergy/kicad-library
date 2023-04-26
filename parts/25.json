@@ -1,0 +1,18 @@
+{
+  "customFields": {
+    "MF": "",
+    "MPN": "",
+    "OC_CONRAD": "",
+    "OC_FARNELL": "",
+    "OC_MOUSER": "581-06035A101KAT4A",
+    "OC_REICHELT": ""
+  },
+  "datasheet": "",
+  "description": "Capacitor 100pF 50V C0G/NP0 10% 0603",
+  "footprint": "Capacitor_SMD:C_0603_1608Metric",
+  "keywords": "Cap Capacitor",
+  "library": "_C_0603",
+  "reference": "C",
+  "symbol": "Device:C",
+  "value": "100p_50V"
+}

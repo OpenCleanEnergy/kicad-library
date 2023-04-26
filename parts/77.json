@@ -1,0 +1,19 @@
+{
+  "customFields": {
+    "MF": "",
+    "MPN": "",
+    "OC_CONRAD": "",
+    "OC_FARNELL": "",
+    "OC_MOUSER": "437-8018700510001101",
+    "OC_REICHELT": ""
+  },
+  "datasheet": "",
+  "description": "Pin Socket P2.54mm THT Vertical 1x06",
+  "footprint": "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical",
+
+  "keywords": "Pin Socket",
+  "library": "_Connector_PinSocket",
+  "reference": "X",
+  "symbol": "Connector:Conn_01x06_Socket",
+  "value": "01x06_P2.54mm_Vert"
+}

@@ -1,0 +1,18 @@
+{
+  "customFields": {
+    "MF": "",
+    "MPN": "",
+    "OC_CONRAD": "",
+    "OC_FARNELL": "",
+    "OC_MOUSER": "810-CGA3E2X7R1H104K",
+    "OC_REICHELT": ""
+  },
+  "datasheet": "",
+  "description": "Capacitor 100nF 50V X7R 10% 0603",
+  "footprint": "Capacitor_SMD:C_0603_1608Metric",
+  "keywords": "Cap Capacitor",
+  "library": "_C_0603",
+  "reference": "C",
+  "symbol": "Device:C",
+  "value": "100n_50V"
+}

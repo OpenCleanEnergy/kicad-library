@@ -1,0 +1,19 @@
+{
+  "Library": "_Connector_PinHeader",
+  "Reference": "X",
+  "Symbol": "Connector:Conn_01x04_Pin",
+  "Value": "02x02_P2.54mm_Vert",
+  "Footprint": "Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Vertical",
+  "Description": "Pin Header P2.54mm THT Vertical 2x02",
+  "Datasheet": "",
+  "Keywords": "Pin Header",
+  "CustomFields": {
+    "MF": "",
+    "MPN": "",
+    "OC_CONRAD": "",
+    "OC_FARNELL": "",
+    "OC_LCSC": "",
+    "OC_MOUSER": "",
+    "OC_REICHELT": ""
+  }
+}

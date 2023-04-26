@@ -1,0 +1,11 @@
+{
+  "customFields": { "MF": "", "MPN": "", "OC_FARNELL": "", "OC_MOUSER": "" },
+  "datasheet": "",
+  "description": "Jumper 3 Pins, Pin header 2.54mm",
+  "footprint": "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical",
+  "keywords": "Jumper",
+  "library": "_Jumper",
+  "reference": "JP",
+  "symbol": "Jumper:Jumper_3_Bridged12",
+  "value": "Jumper_3_2.54THT"
+}

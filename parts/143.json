@@ -1,0 +1,19 @@
+{
+  "Library": "_Diode_Schottky",
+  "Reference": "D",
+  "Symbol": "Device:D_Schottky",
+  "Value": "SS34",
+  "Footprint": "Diode_SMD:D_SMA",
+  "Description": "Schottky Diode 40V 550mV@3A 3A",
+  "Datasheet": "https://www.onsemi.com/pdf/datasheet/ss39-d.pdf",
+  "Keywords": "Diode Schottky",
+  "CustomFields": {
+    "MF": "onsemi",
+    "MPN": "SS34",
+    "OC_CONRAD": "",
+    "OC_FARNELL": "",
+    "OC_LCSC": "C8678",
+    "OC_MOUSER": "512-SS34",
+    "OC_REICHELT": "SS 34"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "Library": "_Transformer",
+  "Reference": "T",
+  "Symbol": "Transformer:TEZ0.5-D-1",
+  "Value": "150.06",
+  "Footprint": "Transformer_THT:Transformer_Breve_TEZ-22x24",
+  "Description": "Printtrafo 0.33VA, 6V/10.8V 55mA, RM15mm",
+  "Datasheet": "https://www.gerth-trafo.de/images/PDF/datasheets/GERTH_Data_Series-150_Stand-c.pdf",
+  "Keywords": "Transformer",
+  "CustomFields": {
+    "MF": "Gerth",
+    "MPN": "150.06",
+    "OC_CONRAD": "",
+    "OC_FARNELL": "",
+    "OC_LCSC": "",
+    "OC_MOUSER": "",
+    "OC_REICHELT": "150.06-1"
+  }
+}

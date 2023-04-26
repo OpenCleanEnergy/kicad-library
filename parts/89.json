@@ -1,0 +1,19 @@
+{
+  "Library": "_Isolator",
+  "Reference": "U",
+  "Symbol": "Isolator:LTV-817S",
+  "Value": "LTV-817S",
+  "Footprint": "Package_DIP:SMDIP-4_W9.53mm",
+  "Description": "DC Optocoupler, Vce 35V, CTR 50%, SMDIP-4",
+  "Datasheet": "http://optoelectronics.liteon.com/upload/download/DS-70-96-0016/LTV-8X7%20series%20201610%20.pdf",
+  "Keywords": "NPN DC Optocoupler",
+  "CustomFields": {
+    "MF": "Lite On",
+    "MPN": "LTV-817S",
+    "OC_CONRAD": "",
+    "OC_FARNELL": "",
+    "OC_LCSC": "C106900",
+    "OC_MOUSER": "859-LTV-817S-TA1",
+    "OC_REICHELT": ""
+  }
+}

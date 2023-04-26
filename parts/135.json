@@ -1,0 +1,18 @@
+{
+  "CustomFields": {
+    "MF": "Bourns",
+    "MPN": "SMBJ5.0A-Q",
+    "OC_FARNELL": "",
+    "OC_LCSC": "C10204",
+    "OC_MOUSER": "652-SMBJ5.0A-Q",
+    "OC_REICHELT": ""
+  },
+  "Datasheet": "https://www.mouser.de/datasheet/2/54/smbj_q-1919912.pdf",
+  "Description": "5V 600W TVS Diode UniDir",
+  "Footprint": "Diode_SMD:D_SMB",
+  "Keywords": "TVS UniDir",
+  "Library": "_Diode_TVS",
+  "Reference": "F",
+  "Symbol": "Device:D_Zener",
+  "Value": "SMBJ5.0A"
+}

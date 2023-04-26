@@ -1,0 +1,18 @@
+{
+  "customFields": {
+    "MF": "",
+    "MPN": "",
+    "OC_CONRAD": "",
+    "OC_FARNELL": "",
+    "OC_MOUSER": "71-CRCW080556R0FKEAC",
+    "OC_REICHELT": ""
+  },
+  "datasheet": "",
+  "description": "Resistor 56R 1% 125mW 150V 0805",
+  "footprint": "Resistor_SMD:R_0805_2012Metric",
+  "keywords": "Res Resistor",
+  "library": "_R_0805",
+  "reference": "R",
+  "symbol": "Device:R",
+  "value": "56R"
+}

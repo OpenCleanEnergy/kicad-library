@@ -1,0 +1,18 @@
+{
+  "customFields": {
+    "MF": "Texas Instruments",
+    "MPN": "LMC555CM/NOPB",
+    "OC_CONRAD": "",
+    "OC_FARNELL": "",
+    "OC_MOUSER": "926-LMC555CMMX/NOPB",
+    "OC_REICHELT": ""
+  },
+  "datasheet": "http://www.ti.com/lit/ds/symlink/lmc555.pdf",
+  "description": "CMOS Timer, 555 compatible, SOIC-8",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "keywords": "timer 555",
+  "library": "_Timer",
+  "reference": "U",
+  "symbol": "Timer:NE555D",
+  "value": "LMC555xM"
+}

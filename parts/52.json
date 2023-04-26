@@ -1,0 +1,16 @@
+{
+  "customFields": {
+    "MF": "ABRACON",
+    "MPN": "ASE-8.000MHZ-L-C-T",
+    "OC_FARNELL": "",
+    "OC_MOUSER": "815-ASE-8.000MLCT"
+  },
+  "datasheet": "https://www.mouser.de/datasheet/2/3/ASEseries-38758.pdf",
+  "description": "Standard Clock Oscillator 8.000MHz 3.3V 50ppm",
+  "footprint": "Oscillator:Oscillator_SMD_Abracon_ASE-4Pin_3.2x2.5mm",
+  "keywords": "Clock Oscillator",
+  "library": "_Oscillator",
+  "reference": "Y",
+  "symbol": "Oscillator:ASE-xxxMHz",
+  "value": "ASE-8.000MHz"
+}

@@ -1,0 +1,18 @@
+{
+  "customFields": {
+    "MF": "Wuerth",
+    "MPN": "744032221",
+    "OC_CONRAD": "",
+    "OC_FARNELL": "",
+    "OC_MOUSER": "710-744032221",
+    "OC_REICHELT": ""
+  },
+  "datasheet": "https://katalog.we-online.de/pbs/datasheet/744032221.pdf",
+  "description": "Inductor SMD L=220uH; Isat=240mA; Irated=75mA",
+  "footprint": "Inductor_SMD:L_1210_3225Metric",
+  "keywords": "Inductor",
+  "library": "_L_1210",
+  "reference": "L",
+  "symbol": "Device:L",
+  "value": "220uH"
+}

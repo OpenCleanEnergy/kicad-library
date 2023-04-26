@@ -1,0 +1,16 @@
+{
+  "customFields": {
+    "MF": "Nexperia",
+    "MPN": "BC807-40",
+    "OC_FARNELL": "",
+    "OC_MOUSER": "771-BC807-40-T/R"
+  },
+  "datasheet": "",
+  "description": "45V, 500mA PNP general-purpose transistors",
+  "footprint": "Package_TO_SOT_SMD:SOT-23",
+  "keywords": "transistor pnp",
+  "library": "_Transistor_BJT",
+  "reference": "Q",
+  "symbol": "Device:Q_PNP_BEC",
+  "value": "BC807-40"
+}

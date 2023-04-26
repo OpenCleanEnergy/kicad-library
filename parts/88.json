@@ -1,0 +1,18 @@
+{
+  "customFields": {
+    "MF": "",
+    "MPN": "",
+    "OC_CONRAD": "",
+    "OC_FARNELL": "",
+    "OC_MOUSER": "667-ERJ-8ENF10R0V",
+    "OC_REICHELT": ""
+  },
+  "datasheet": "",
+  "description": "Resistor 10R 1% 250mW 200V 1206",
+  "footprint": "Resistor_SMD:R_1206_3216Metric",
+  "keywords": "Res Resistor",
+  "library": "_R_1206",
+  "reference": "R",
+  "symbol": "Device:R",
+  "value": "10R"
+}

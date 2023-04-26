@@ -1,0 +1,16 @@
+{
+  "customFields": {
+    "MF": "Bourns",
+    "MPN": "P4SMA400A",
+    "OC_FARNELL": "",
+    "OC_MOUSER": "652-P4SMA400A"
+  },
+  "datasheet": "https://www.mouser.de/datasheet/2/54/4sma-777697.pdf",
+  "description": "342V/400V/548V 400W TVS Diode UniDir",
+  "footprint": "Diode_SMD:D_SMA",
+  "keywords": "TVS Unidir",
+  "library": "_Diode_TVS",
+  "reference": "F",
+  "symbol": "Device:D_Zener",
+  "value": "P4SMA400A"
+}

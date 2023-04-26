@@ -1,0 +1,16 @@
+{
+  "customFields": {
+    "MF": "Littlefuse",
+    "MPN": "P6SMB200CA",
+    "OC_FARNELL": "",
+    "OC_MOUSER": "576-P6SMB200CA"
+  },
+  "datasheet": "https://www.mouser.de/datasheet/2/240/Littelfuse_TVS_Diode_P6SMB_Datasheet.pdf-365562.pdf",
+  "description": "171V/200V/274V 600W TVS Diode BiDir",
+  "footprint": "Diode_SMD:D_SMB",
+  "keywords": "TVS Bidir",
+  "library": "_Diode_TVS",
+  "reference": "F",
+  "symbol": "Device:D_TVS",
+  "value": "P6SMB200CA"
+}

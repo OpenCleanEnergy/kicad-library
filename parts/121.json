@@ -1,0 +1,18 @@
+{
+  "customFields": {
+    "MF": "STM",
+    "MPN": "STM32L011D3Px",
+    "OC_CONRAD": "",
+    "OC_FARNELL": "",
+    "OC_MOUSER": "511-STM32L011D3P6TR",
+    "OC_REICHELT": ""
+  },
+  "datasheet": "https://www.st.com/resource/en/datasheet/stm32l011d3.pdf",
+  "description": "ARM Cortex-M0+ MCU, 8KB flash, 2KB RAM, 32MHz, 1.65-3.6V, 11 GPIO, TSSOP-14",
+  "footprint": "Package_SO:TSSOP-14_4.4x5mm_P0.65mm",
+  "keywords": "ARM Cortex-M0+ STM32L0 STM32L0x1",
+  "library": "_MCU",
+  "reference": "U",
+  "symbol": "MCU_ST_STM32L0:STM32L011D3Px",
+  "value": "STM32L011D3"
+}

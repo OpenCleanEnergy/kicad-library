@@ -1,0 +1,19 @@
+{
+  "Library": "_Connector_Terminal",
+  "Reference": "X",
+  "Symbol": "Connector_Generic:Conn_01x02",
+  "Value": "235-402-331",
+  "Footprint": "TerminalBlock_WAGO:TerminalBlock_WAGO_236-402_1x02_P5.00mm_45Degree",
+  "Description": "PCB Terminal P5.00mm 1.5mm² 1x02 Push-In Cage Clamp",
+  "Datasheet": "",
+  "Keywords": "Terminal",
+  "CustomFields": {
+    "MF": "WAGO",
+    "MPN": "235-402/331-000",
+    "OC_CONRAD": "",
+    "OC_FARNELL": "",
+    "OC_LCSC": "",
+    "OC_MOUSER": "",
+    "OC_REICHELT": ""
+  }
+}

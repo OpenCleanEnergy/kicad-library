@@ -1,0 +1,16 @@
+{
+  "customFields": {
+    "MF": "Omron Electronics",
+    "MPN": "B3U-1000P",
+    "OC_FARNELL": "",
+    "OC_MOUSER": "653-B3U-1000P"
+  },
+  "datasheet": "https://www.mouser.de/datasheet/2/307/en-b3u-3615.pdf",
+  "description": "Dip Tactille Switch Top",
+  "footprint": "Button_Switch_SMD:SW_SPST_B3U-1000P",
+  "keywords": "Switch Dip Tactille",
+  "library": "_Switch",
+  "reference": "S",
+  "symbol": "Switch:SW_DIP_x01",
+  "value": "B3U-1000P"
+}

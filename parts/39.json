@@ -1,0 +1,16 @@
+{
+  "customFields": {
+    "MF": "Nexperia",
+    "MPN": "NZH15B",
+    "OC_FARNELL": "",
+    "OC_MOUSER": "771-NZH15B-115"
+  },
+  "datasheet": "https://assets.nexperia.com/documents/data-sheet/NZH_SER.pdf",
+  "description": "Zener Diode 15.75V 16Ohm",
+  "footprint": "Diode_SMD:D_SOD-123F",
+  "keywords": "Diode Zener",
+  "library": "_Diode_Zener",
+  "reference": "D",
+  "symbol": "Device:D_Zener",
+  "value": "NZH15B"
+}

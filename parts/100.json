@@ -1,0 +1,18 @@
+{
+  "customFields": {
+    "MF": "Vishay",
+    "MPN": "AC01002209JA",
+    "OC_CONRAD": "",
+    "OC_FARNELL": "1735039",
+    "OC_MOUSER": " 594-AC01002209JACCS",
+    "OC_REICHELT": ""
+  },
+  "datasheet": "https://www.vishay.com/docs/28909/acxxcs.pdf",
+  "description": "Axial Cemented Fusible Leaded Wirewound Safety Resistors, 1W, 22R, 1.5kV at 1.2/50μs pulse",
+  "footprint": "Resistor_THT:R_Axial_DIN0614_L14.3mm_D5.7mm_P5.08mm_Vertical",
+  "keywords": "Resistor Fusible",
+  "library": "_R_Fusible",
+  "reference": "R",
+  "symbol": "Device:R",
+  "value": "22R,1W"
+}

@@ -1,0 +1,19 @@
+{
+  "Library": "_Amplifier_Operational",
+  "Reference": "U",
+  "Symbol": "Amplifier_Operational:LM2904",
+  "Value": "MCP6002-SN",
+  "Footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "Description": "Dual 1.8V - 6V Rail-To-Rail Operational Amplifier, SOIC-8",
+  "Datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/MCP6001-1R-1U-2-4-1-MHz-Low-Power-Op-Amp-DS20001733L.pdf",
+  "Keywords": "Rail-To-Rail Operational Amplifier OpAmp Dual",
+  "CustomFields": {
+    "MF": "Microchip Technology",
+    "MPN": "MCP6002-I/SN",
+    "OC_CONRAD": "",
+    "OC_FARNELL": "",
+    "OC_LCSC": "C7377",
+    "OC_MOUSER": "579-MCP6002T-I/SN",
+    "OC_REICHELT": ""
+  }
+}

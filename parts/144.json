@@ -1,0 +1,19 @@
+{
+  "Library": "_L_Power",
+  "Reference": "L",
+  "Symbol": "Device:L",
+  "Value": "22uH@3A",
+  "Footprint": "Inductor_THT:L_Radial_D7.8mm_P5.00mm_Fastron_07HCP",
+  "Description": "Power Inductor 22uH@3A Radial D:7.8mm P:5mm",
+  "Datasheet": "",
+  "Keywords": "power inductor",
+  "CustomFields": {
+    "MF": "",
+    "MPN": "",
+    "OC_CONRAD": "",
+    "OC_FARNELL": "",
+    "OC_LCSC": "",
+    "OC_MOUSER": "",
+    "OC_REICHELT": ""
+  }
+}

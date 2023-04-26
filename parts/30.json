@@ -1,0 +1,16 @@
+{
+  "customFields": {
+    "MF": "ON Semiconductor",
+    "MPN": "ES1JFL",
+    "OC_FARNELL": "",
+    "OC_MOUSER": "512-ES1JFL"
+  },
+  "datasheet": "https://www.mouser.de/datasheet/2/308/ES1JFL-1305238.pdf",
+  "description": "Diode super fast recitifier Vf=1.7V, If=1A, Vr=1000V",
+  "footprint": "Diode_SMD:D_SOD-123F",
+  "keywords": "diode rectifier",
+  "library": "_Diode",
+  "reference": "D",
+  "symbol": "Device:D",
+  "value": "ES1JFL"
+}

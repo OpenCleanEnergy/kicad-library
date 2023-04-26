@@ -1,0 +1,16 @@
+{
+  "customFields": {
+    "MF": "Schurter",
+    "MPN": "0001.2704.11",
+    "OC_FARNELL": "",
+    "OC_MOUSER": "693-0001.2704.11"
+  },
+  "datasheet": "https://www.mouser.de/datasheet/2/358/typ_SMD-SPT-1276028.pdf",
+  "description": "Surface Mount Fuse, 5 x 20 mm,  Time-Lag T, 250VAC",
+  "footprint": "Fuse:Fuse_SMD_5x20mm",
+  "keywords": "Fuse",
+  "library": "_Fuse",
+  "reference": "F",
+  "symbol": "Device:Fuse",
+  "value": "1A,SlowBlow"
+}

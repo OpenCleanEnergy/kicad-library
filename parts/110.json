@@ -1,0 +1,18 @@
+{
+  "customFields": {
+    "MF": "Vishay",
+    "MPN": "BZD27C36P-E3-08",
+    "OC_CONRAD": "",
+    "OC_FARNELL": "1559117",
+    "OC_MOUSER": " 78-BZD27C36P-E3-08",
+    "OC_REICHELT": ""
+  },
+  "datasheet": "https://www.vishay.com/docs/85153/bzd27series.pdf",
+  "description": "Zener Diode 36V 21Ohm",
+  "footprint": "Diode_SMD:D_SOD-123F",
+  "keywords": "Diode Zener",
+  "library": "_Diode_Zener",
+  "reference": "D",
+  "symbol": "Device:D_Zener",
+  "value": "BZD27C36P"
+}

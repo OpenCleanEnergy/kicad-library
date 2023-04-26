@@ -1,0 +1,16 @@
+{
+  "customFields": {
+    "MF": "Texas Instruments",
+    "MPN": "OPA2171AIDR",
+    "OC_FARNELL": "",
+    "OC_MOUSER": "726-BSP125H6433"
+  },
+  "datasheet": "http://www.ti.com/lit/ds/symlink/opa2171.pdf",
+  "description": "Dual 2.7V to 36V Rail-To-Rail Operational Amplifier, SOIC-8",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "keywords": "Rail-To-Rail Operational Amplifier OpAmp Dual",
+  "library": "_Amplifier_Operational",
+  "reference": "U",
+  "symbol": "Amplifier_Operational:LM2904",
+  "value": "OPA2171AIDR"
+}

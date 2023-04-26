@@ -1,0 +1,18 @@
+{
+  "customFields": {
+    "MF": "Wuerth Electronics",
+    "MPN": "150066M173000",
+    "OC_CONRAD": "",
+    "OC_FARNELL": "",
+    "OC_MOUSER": "710-150066M173000",
+    "OC_REICHELT": ""
+  },
+  "datasheet": "https://katalog.we-online.com/led/datasheet/150066M173000.pdf",
+  "description": "SMD Full-color Chip LED Waterclear Red: 1.9V, Green: 3.3V, Blue: 3.3V, 0606",
+  "footprint": "LED_SMD:LED_RGB_0606",
+  "keywords": "LED RGB",
+  "library": "_LED",
+  "reference": "P",
+  "symbol": "Device:LED_GRAB",
+  "value": "150066M173000"
+}

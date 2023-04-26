@@ -1,0 +1,16 @@
+{
+  "customFields": {
+    "MF": "Comchip Technology",
+    "MPN": "CPDU12V0U-HF",
+    "OC_FARNELL": "",
+    "OC_MOUSER": "750-CPDU12V0U-HF"
+  },
+  "datasheet": "http://www.comchiptech.com/admin/files/product/CPDU12V0U-HF%20RevC203089.pdf",
+  "description": "SMD ESD Protection Diode, Vrwm=12V, Vc@1A=19V, Vc@5A=24V; 0603/SOD-523",
+  "footprint": "Diode_SMD:D_0603_1608Metric",
+  "keywords": "ESD Protection Diode",
+  "library": "_Diode_TVS",
+  "reference": "F",
+  "symbol": "Device:D_Zener",
+  "value": "CPDU12V0U"
+}

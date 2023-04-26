@@ -1,0 +1,19 @@
+{
+  "Library": "_Connector_Testpoint",
+  "Reference": "X",
+  "Symbol": "Connector:TestPoint",
+  "Value": "TP_Pad_1.5",
+  "Footprint": "TestPoint:TestPoint_Pad_1.5x1.5mm",
+  "Description": "",
+  "Datasheet": "",
+  "Keywords": "",
+  "CustomFields": {
+    "MF": "",
+    "MPN": "",
+    "OC_CONRAD": "",
+    "OC_FARNELL": "",
+    "OC_LCSC": "",
+    "OC_MOUSER": "",
+    "OC_REICHELT": ""
+  }
+}

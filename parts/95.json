@@ -1,0 +1,18 @@
+{
+  "customFields": {
+    "MF": "Analog Devices",
+    "MPN": "ADuM121N",
+    "OC_CONRAD": "",
+    "OC_FARNELL": "",
+    "OC_MOUSER": "584-ADUM121N1BRZ",
+    "OC_REICHELT": ""
+  },
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADuM120N_121N.pdf",
+  "description": "Dual-channel digital isolator,1.8 to 5V, 150Mbs, 3kV",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "keywords": "Dual-channel digital isolator",
+  "library": "_Isolator",
+  "reference": "U",
+  "symbol": "Isolator:ADuM121N",
+  "value": "ADuM121N"
+}

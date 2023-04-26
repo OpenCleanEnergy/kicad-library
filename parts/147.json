@@ -1,0 +1,19 @@
+{
+  "Library": "_Diode",
+  "Reference": "D",
+  "Symbol": "Device:D",
+  "Value": "SM4007PL",
+  "Footprint": "Diode_SMD:D_SOD-123F",
+  "Description": "Diode general purpose rectifier Vf=1.1V, If=1A, Vr=1000V",
+  "Datasheet": "https://www.mccsemi.com/pdf/Products/SM4001PL-SM4007PL(SOD-123FL).pdf",
+  "Keywords": "diode rectifier",
+  "CustomFields": {
+    "MF": "MCC",
+    "MPN": "SM4007PL",
+    "OC_CONRAD": "",
+    "OC_FARNELL": "",
+    "OC_LCSC": "C64898",
+    "OC_MOUSER": "833-SM4007PL-TP",
+    "OC_REICHELT": ""
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "customFields": {
+    "MF": "STM",
+    "MPN": "STM32F070F6P6",
+    "OC_FARNELL": "2488284",
+    "OC_MOUSER": "511-STM32F070F6P6"
+  },
+  "datasheet": "https://www.st.com/resource/en/datasheet/stm32f070f6.pdf",
+  "description": "STM32F070F6Px",
+  "footprint": "Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm",
+  "keywords": "STM ST STM32 STM32F070F6P6",
+  "library": "_MCU",
+  "reference": "U",
+  "symbol": "MCU_ST_STM32F0:STM32F070F6Px",
+  "value": "STM32F070F6P6"
+}

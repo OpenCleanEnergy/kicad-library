@@ -1,0 +1,16 @@
+{
+  "customFields": {
+    "MF": "Nexperia",
+    "MPN": "NZH3V6B",
+    "OC_FARNELL": "",
+    "OC_MOUSER": "771-NZH3V6B-115"
+  },
+  "datasheet": "https://assets.nexperia.com/documents/data-sheet/NZH_SER.pdf",
+  "description": "Zener Diode 3.6V@20mA 500mW",
+  "footprint": "Diode_SMD:D_SOD-123F",
+  "keywords": "Diode Zener",
+  "library": "_Diode_Zener",
+  "reference": "D",
+  "symbol": "Device:D_Zener",
+  "value": "NZH3V6B"
+}

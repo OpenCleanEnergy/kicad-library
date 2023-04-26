@@ -1,0 +1,16 @@
+{
+  "customFields": {
+    "MF": "Wuerth",
+    "MPN": "744032471",
+    "OC_FARNELL": "",
+    "OC_MOUSER": "710-744032471"
+  },
+  "datasheet": "https://katalog.we-online.com/pbs/datasheet/744032471.pdf",
+  "description": "Inductor SMD L=470uH; Isat=120mA; Irated=55mA",
+  "footprint": "Inductor_SMD:L_1210_3225Metric",
+  "keywords": "Inductor",
+  "library": "_L_1210",
+  "reference": "L",
+  "symbol": "Device:L",
+  "value": "470uH"
+}

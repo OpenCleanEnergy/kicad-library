@@ -1,0 +1,16 @@
+{
+  "customFields": {
+    "MF": "Bourns",
+    "MPN": "P6SMB400A",
+    "OC_FARNELL": "",
+    "OC_MOUSER": "652-P6SMB400A"
+  },
+  "datasheet": "https://www.mouser.de/datasheet/2/54/6smb-778327.pdf",
+  "description": "342V/400V/548V 600W TVS Diode UniDir",
+  "footprint": "Diode_SMD:D_SMB",
+  "keywords": "TVS Unidir",
+  "library": "_Diode_TVS",
+  "reference": "F",
+  "symbol": "Device:D_Zener",
+  "value": "P6SMB400A"
+}

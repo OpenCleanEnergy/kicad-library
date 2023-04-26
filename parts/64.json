@@ -1,0 +1,19 @@
+{
+  "Library": "_MCU",
+  "Reference": "U",
+  "Symbol": "MCU_ST_STM32G0:STM32G071G_8-B_UxN",
+  "Value": "STM32G071GBU6",
+  "Footprint": "Package_DFN_QFN:QFN-28_4x4mm_P0.5mm",
+  "Description": "ARM Cortex-M0\u002B MCU, 64-128KB flash, 36KB RAM, 64MHz, 1.7-3.6V, 26 GPIO, UFQFPN-28",
+  "Datasheet": "https://www.st.com/resource/en/reference_manual/dm00371828.pdf",
+  "Keywords": "ARM Cortex-M0\u002B STM32G0 STM32G0x1",
+  "CustomFields": {
+    "MF": "STM",
+    "MPN": "STM32G071GBU6",
+    "OC_CONRAD": "",
+    "OC_FARNELL": "2980894",
+    "OC_LCSC": "",
+    "OC_MOUSER": "511-STM32G071GBU6",
+    "OC_REICHELT": ""
+  }
+}

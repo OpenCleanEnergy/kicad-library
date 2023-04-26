@@ -1,0 +1,18 @@
+{
+  "Library": "_Diode",
+  "Reference": "D",
+  "Symbol": "Device:D",
+  "Value": "1N4148WS",
+  "Footprint": "Diode_SMD:D_0805_2012Metric",
+  "Description": "Diode Vf=1V; If=150mA; Vrrm=100V; Vr=75V; 0805/SOD-323",
+  "Datasheet": "",
+  "Keywords": "Diode Rectifier",
+  "CustomFields": {
+    "MF": "",
+    "MPN": "",
+    "OC_FARNELL": "",
+    "OC_LCSC": "",
+    "OC_MOUSER": "821-TS4148RYG",
+    "OC_REICHELT": ""
+  }
+}

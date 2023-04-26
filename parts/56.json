@@ -1,0 +1,18 @@
+{
+  "customFields": {
+    "MF": "",
+    "MPN": "",
+    "OC_CONRAD": "",
+    "OC_FARNELL": "",
+    "OC_MOUSER": "81-BLM18KG601SZ1D",
+    "OC_REICHELT": ""
+  },
+  "datasheet": "",
+  "description": "Ferrit Bead 600R 1A 0603",
+  "footprint": "Inductor_SMD:L_0603_1608Metric",
+  "keywords": "Ferrit",
+  "library": "_Ferrit",
+  "reference": "L",
+  "symbol": "Device:L",
+  "value": "600R"
+}

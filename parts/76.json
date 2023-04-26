@@ -1,0 +1,12 @@
+{
+  "customFields": { "MF": "", "MPN": "", "OC_FARNELL": "", "OC_MOUSER": "" },
+  "datasheet": "",
+  "description": "Pin Socket P2.54mm THT Vertical 1x05",
+  "footprint": "Connector_PinSocket_2.54mm:PinSocket_1x05_P2.54mm_Vertical",
+
+  "keywords": "Pin Socket",
+  "library": "_Connector_PinSocket",
+  "reference": "X",
+  "symbol": "Connector:Conn_01x05_Socket",
+  "value": "01x05_P2.54mm_Vert"
+}

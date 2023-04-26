@@ -1,0 +1,19 @@
+{
+  "Library": "_C_Polymer",
+  "Reference": "C",
+  "Symbol": "Device:C_Polarized",
+  "Value": "220u_16V",
+  "Footprint": "Capacitor_SMD:CP_Elec_10x12.5",
+  "Description": "Electrolytic polymer capacitor 220u 16V lowest ESR",
+  "Datasheet": "",
+  "Keywords": "cap capacitor",
+  "CustomFields": {
+    "MF": "",
+    "MPN": "",
+    "OC_CONRAD": "",
+    "OC_FARNELL": "",
+    "OC_LCSC": "",
+    "OC_MOUSER": "",
+    "OC_REICHELT": "PXA 220/16"
+  }
+}

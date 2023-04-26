@@ -1,0 +1,19 @@
+{
+  "Library": "_LED",
+  "Reference": "P",
+  "Symbol": "Device:LED",
+  "Value": "Red",
+  "Footprint": "LED_SMD:LED_0603_1608Metric",
+  "Description": "LED 0603 Red",
+  "Datasheet": "",
+  "Keywords": "LED Red",
+  "CustomFields": {
+    "MF": "",
+    "MPN": "",
+    "OC_CONRAD": "",
+    "OC_FARNELL": "",
+    "OC_LCSC": "",
+    "OC_MOUSER": "710-150060RS75000",
+    "OC_REICHELT": ""
+  }
+}

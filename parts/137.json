@@ -1,0 +1,19 @@
+{
+  "Library": "_Connector_USB",
+  "Reference": "X",
+  "Symbol": "Connector:USB_C_Receptacle_USB2.0",
+  "Value": "TYPE-C-31-M-12",
+  "Footprint": "Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12",
+  "Description": "USB C Receptable USB 2.0 Alternative: TYPE-C-31-M-09",
+  "Datasheet": "https://datasheet.lcsc.com/lcsc/2108131730_Korean-Hroparts-Elec-TYPE-C-31-M-12_C165948.pdf",
+  "Keywords": "usb c",
+  "CustomFields": {
+    "MF": "HRO",
+    "MPN": "TYPE-C-31-M-12",
+    "OC_CONRAD": "",
+    "OC_FARNELL": "",
+    "OC_LCSC": "C165948",
+    "OC_MOUSER": "",
+    "OC_REICHELT": ""
+  }
+}

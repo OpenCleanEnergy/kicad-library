@@ -1,0 +1,19 @@
+{
+  "customFields": {
+    "MF": "",
+    "MPN": "",
+    "OC_CONRAD": "",
+    "OC_FARNELL": "",
+    "OC_MOUSER": "710-61300411021",
+    "OC_REICHELT": ""
+  },
+  "datasheet": "",
+  "description": "Pin Header P2.54mm THT Horizontal 1x04",
+  "footprint": "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Horizontal",
+
+  "keywords": "Pin Header",
+  "library": "_Connector_PinHeader",
+  "reference": "X",
+  "symbol": "Connector:Conn_01x04_Pin",
+  "value": "01x04_P2.54mm_Hor"
+}

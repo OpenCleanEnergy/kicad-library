@@ -1,0 +1,18 @@
+{
+  "CustomFields": {
+    "MF": "Liansheng",
+    "MPN": "FH-00148",
+    "OC_FARNELL": "",
+    "OC_LCSC": "C2685092",
+    "OC_MOUSER": "855-M20-7812045",
+    "OC_REICHELT": ""
+  },
+  "Datasheet": "https://datasheet.lcsc.com/lcsc/2106070304_Liansheng-FH-00148_C2685092.pdf",
+  "Description": "Pin Socket Back H=7.1mm",
+  "Footprint": "Connector_Harwin:Harwin_M20-7812045_2x20_P2.54mm_Vertical",
+  "Keywords": "socket",
+  "Library": "_Connector_PinSocket",
+  "Reference": "X",
+  "Symbol": "Connector_Generic:Conn_02x20_Top_Bottom",
+  "Value": "FH-00148"
+}

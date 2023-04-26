@@ -1,0 +1,19 @@
+{
+  "Library": "_Amplifier_Operational",
+  "Reference": "U",
+  "Symbol": "Amplifier_Operational:AD8603",
+  "Value": "OPA171",
+  "Footprint": "Package_TO_SOT_SMD:SOT-23-5",
+  "Description": "Single 2.7V to 36V Rail-To-Rail Operational Amplifier, SOT-23-5",
+  "Datasheet": "http://www.ti.com/lit/ds/symlink/opa171.pdf",
+  "Keywords": "Rail-To-Rail Operational Amplifier OpAmp",
+  "CustomFields": {
+    "MF": "Texas Instruments",
+    "MPN": "OPA171AIDBV(R/T)",
+    "OC_CONRAD": "",
+    "OC_FARNELL": "",
+    "OC_LCSC": "",
+    "OC_MOUSER": "595-OPA171AIDBVR",
+    "OC_REICHELT": ""
+  }
+}

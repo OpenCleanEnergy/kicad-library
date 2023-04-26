@@ -1,0 +1,19 @@
+{
+  "Library": "_Diode_Zener",
+  "Reference": "D",
+  "Symbol": "Device:D_Zener",
+  "Value": "MM3Z4V3",
+  "Footprint": "Diode_SMD:D_0805_2012Metric",
+  "Description": "Zener Diode 4.3V@5mA 200mW Alternative: BZT52C4V3 0805/SOD-323",
+  "Datasheet": "https://www.onsemi.com/pdf/datasheet/mm3z2v4t1-d.pdf",
+  "Keywords": "Diode Zener",
+  "CustomFields": {
+    "MF": "onsemi",
+    "MPN": "MM3Z4V3T1G",
+    "OC_CONRAD": "",
+    "OC_FARNELL": "",
+    "OC_LCSC": "",
+    "OC_MOUSER": "",
+    "OC_REICHELT": ""
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "customFields": {
+    "MF": "",
+    "MPN": "",
+    "OC_CONRAD": "",
+    "OC_FARNELL": "",
+    "OC_MOUSER": "",
+    "OC_REICHELT": ""
+  },
+  "datasheet": "",
+  "description": "Resistor 0R Bridge",
+  "footprint": "Resistor_SMD:R_0805_2012Metric",
+  "keywords": "Res Resistor",
+  "library": "_R_0805",
+  "reference": "R",
+  "symbol": "Device:R",
+  "value": "0R"
+}

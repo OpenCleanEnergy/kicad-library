@@ -1,0 +1,19 @@
+{
+  "Library": "_Regulator_Linear",
+  "Reference": "U",
+  "Symbol": "Regulator_Linear:MCP1703Ax-330xxTT",
+  "Value": "MCP1703A-1802",
+  "Footprint": "Package_TO_SOT_SMD:SOT-23",
+  "Description": "Low Quiescent Current LDO Regulator, 1.8V, 250mA, Vin\u003C=16V, SOT-23",
+  "Datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/20005122B.pdf",
+  "Keywords": "ldo linear fixed positive",
+  "CustomFields": {
+    "MF": "Microchip Technology",
+    "MPN": "MCP1703Ax-1802E/CB",
+    "OC_CONRAD": "",
+    "OC_FARNELL": "",
+    "OC_LCSC": "",
+    "OC_MOUSER": "579-MCP1703AT1802ECB",
+    "OC_REICHELT": ""
+  }
+}

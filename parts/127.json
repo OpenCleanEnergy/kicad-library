@@ -1,0 +1,18 @@
+{
+  "customFields": {
+    "MF": "On Semiconductor",
+    "MPN": "SS14HE",
+    "OC_CONRAD": "",
+    "OC_FARNELL": "",
+    "OC_MOUSER": "512-SS14HE",
+    "OC_REICHELT": ""
+  },
+  "datasheet": "https://www.onsemi.com/pub/Collateral/SS13HE-D.PDF",
+  "description": "Schottky Diode Vf=0.46V; If=1A; Vr=40V",
+  "footprint": "Diode_SMD:D_0805_2012Metric",
+  "keywords": "Diode Schottky",
+  "library": "_Diode_Schottky",
+  "reference": "D",
+  "symbol": "Device:D_Schottky",
+  "value": "SS14HE"
+}

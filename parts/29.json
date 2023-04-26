@@ -1,0 +1,18 @@
+{
+  "customFields": {
+    "MF": "ON Semiconductor",
+    "MPN": "S1MFL",
+    "OC_CONRAD": "",
+    "OC_FARNELL": "",
+    "OC_MOUSER": "512-S1MFL",
+    "OC_REICHELT": ""
+  },
+  "datasheet": "https://www.onsemi.com/pub/Collateral/S1MFL-D.PDF",
+  "description": "Diode general purpose rectifier Vf=1.1V, If=1A, Vr=1000V",
+  "footprint": "Diode_SMD:D_SOD-123F",
+  "keywords": "diode rectifier",
+  "library": "_Diode",
+  "reference": "D",
+  "symbol": "Device:D",
+  "value": "S1MFL"
+}

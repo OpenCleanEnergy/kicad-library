@@ -1,0 +1,19 @@
+{
+  "customFields": {
+    "MF": "",
+    "MPN": "",
+    "OC_CONRAD": "",
+    "OC_FARNELL": "",
+    "OC_MOUSER": "710-61300511121",
+    "OC_REICHELT": "MPE 087-1-005"
+  },
+  "datasheet": "",
+  "description": "Pin Header P2.54mm THT Vertical 1x05",
+  "footprint": "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical",
+
+  "keywords": "Pin Header",
+  "library": "_Connector_PinHeader",
+  "reference": "X",
+  "symbol": "Connector:Conn_01x05_Pin",
+  "value": "01x05_P2.54mm_Vert"
+}

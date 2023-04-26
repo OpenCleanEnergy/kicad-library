@@ -1,0 +1,16 @@
+{
+  "customFields": {
+    "MF": "Bourns",
+    "MPN": "1.5SMC400A",
+    "OC_FARNELL": "",
+    "OC_MOUSER": "652-1.5SMC400A"
+  },
+  "datasheet": "https://www.mouser.de/datasheet/2/54/1.5SMC-1299169.pdf",
+  "description": "342V/400V/548V 1500W TVS Diode UniDir",
+  "footprint": "Diode_SMD:D_SMC",
+  "keywords": "TVS Unidir",
+  "library": "_Diode_TVS",
+  "reference": "F",
+  "symbol": "Device:D_Zener",
+  "value": "1.5SMC400A"
+}

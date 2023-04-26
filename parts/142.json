@@ -1,0 +1,19 @@
+{
+  "Library": "_Regulator_Switching",
+  "Reference": "U",
+  "Symbol": "Regulator_Switching:TPS5430DDA",
+  "Value": "TPS5430",
+  "Footprint": "Package_SO:TI_SO-PowerPAD-8_ThermalVias",
+  "Description": "3A, Step Down Swift Converter, Adjustable Output Voltage, 5.5-36V Input Voltage, PowerSO-8",
+  "Datasheet": "https://www.ti.com/lit/ds/symlink/tps5430.pdf",
+  "Keywords": "Step-Down DC-DC Switching Regulator",
+  "CustomFields": {
+    "MF": "Texas Instruments",
+    "MPN": "TPS5430",
+    "OC_CONRAD": "",
+    "OC_FARNELL": "",
+    "OC_LCSC": "C9864",
+    "OC_MOUSER": "595-TPS5430DDAR",
+    "OC_REICHELT": ""
+  }
+}

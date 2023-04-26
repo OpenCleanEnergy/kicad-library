@@ -1,0 +1,16 @@
+{
+  "customFields": {
+    "MF": "Taiwan Semiconductor",
+    "MPN": "TS3480CX33 RFG",
+    "OC_FARNELL": "",
+    "OC_MOUSER": "821-TS3480CX33RFG"
+  },
+  "datasheet": "https://www.mouser.de/datasheet/2/395/TS3480_C15-1082205.pdf",
+  "description": "100mA quasi low dropout linear regulator, 3.3V fixed output, SOT-23",
+  "footprint": "Package_TO_SOT_SMD:SOT-23",
+  "keywords": "ldo linear fixed positive",
+  "library": "_Regulator_Linear",
+  "reference": "U",
+  "symbol": "Regulator_Linear:LM3480-3.3",
+  "value": "TS3480CX33"
+}

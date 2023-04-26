@@ -1,0 +1,16 @@
+{
+  "customFields": {
+    "MF": "Comchip Technology",
+    "MPN": "CPDU3V3UP-HF",
+    "OC_FARNELL": "",
+    "OC_MOUSER": "750-CPDU3V3UP-HF"
+  },
+  "datasheet": "http://www.comchiptech.com/admin/files/product/CPDU3V3UP-HF%20RevC.pdf",
+  "description": "SMD ESD Protection Diode Vrwm=3.3V Vc@1A=5V Vc@5A=8V; 0603/SOD-523",
+  "footprint": "Diode_SMD:D_0603_1608Metric",
+  "keywords": "ESD Protection Diode",
+  "library": "_Diode_TVS",
+  "reference": "F",
+  "symbol": "Device:D_Zener",
+  "value": "CPDU3V3UP"
+}

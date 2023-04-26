@@ -1,0 +1,18 @@
+{
+  "customFields": {
+    "MF": "",
+    "MPN": "",
+    "OC_CONRAD": "",
+    "OC_FARNELL": "",
+    "OC_MOUSER": "77-VJ805Y105KXXTW1BC",
+    "OC_REICHELT": ""
+  },
+  "datasheet": "",
+  "description": "Capacitor 1uF 25V X7R 10% 0805",
+  "footprint": "Capacitor_SMD:C_0805_2012Metric",
+  "keywords": "Cap Capacitor",
+  "library": "_C_0805",
+  "reference": "C",
+  "symbol": "Device:C",
+  "value": "1u_25V"
+}

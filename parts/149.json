@@ -1,0 +1,19 @@
+{
+  "Library": "_MCU",
+  "Reference": "U",
+  "Symbol": "MCU_ST_STM32G0:STM32G030F6Px",
+  "Value": "STM32G030F6P",
+  "Footprint": "Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm",
+  "Description": "ARM Cortex-M0\u002B MCU, 32 kB flash, 8 kB SRAM, 64 MHz, 2.0-3.6 V, TSSOP-20",
+  "Datasheet": "https://www.st.com/resource/en/datasheet/stm32g030f6.pdf",
+  "Keywords": "ARM Cortex-M0\u002B STM32G0 STM32G030",
+  "CustomFields": {
+    "MF": "STM",
+    "MPN": "STM32G030F6P6",
+    "OC_CONRAD": "",
+    "OC_FARNELL": "",
+    "OC_LCSC": "",
+    "OC_MOUSER": "",
+    "OC_REICHELT": ""
+  }
+}

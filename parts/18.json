@@ -1,0 +1,18 @@
+{
+  "CustomFields": {
+    "MF": "Infineon Technologies",
+    "MPN": "IPB60R060P7ATMA1",
+    "OC_FARNELL": "",
+    "OC_LCSC": "",
+    "OC_MOUSER": "726-IPB60R060P7ATMA1",
+    "OC_REICHELT": ""
+  },
+  "Datasheet": "https://www.mouser.de/datasheet/2/196/Infineon-IPB60R060P7-DS-v02_01-EN-1274317.pdf",
+  "Description": "Power NMOS; Vds=600V; Id=48A; Rds_On=49mOhm; TO-263-3",
+  "Footprint": "Package_TO_SOT_SMD:TO-263-3_TabPin2",
+  "Keywords": "MOSFET NMOS",
+  "Library": "_Transistor_FET",
+  "Reference": "Q",
+  "Symbol": "Device:Q_NMOS_GDS",
+  "Value": "IPB60R060P7"
+}

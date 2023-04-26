@@ -1,0 +1,16 @@
+{
+  "customFields": {
+    "MF": "Diodes Incorporated",
+    "MPN": "FMMT458TA",
+    "OC_FARNELL": "",
+    "OC_MOUSER": "522-FMMT458TA"
+  },
+  "datasheet": "https://www.mouser.de/datasheet/2/115/FMMT458-51016.pdf",
+  "description": "400V 500mW NPN High Voltage Transistor",
+  "footprint": "Package_TO_SOT_SMD:SOT-23",
+  "keywords": "Transistor NPN",
+  "library": "_Transistor_BJT",
+  "reference": "Q",
+  "symbol": "Device:Q_NPN_BEC",
+  "value": "FMMT458"
+}

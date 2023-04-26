@@ -1,0 +1,16 @@
+{
+  "customFields": {
+    "MF": "Wuerth",
+    "MPN": "744032331",
+    "OC_FARNELL": "",
+    "OC_MOUSER": "710-744032331"
+  },
+  "datasheet": "https://katalog.we-online.com/pbs/datasheet/744032331.pdf",
+  "description": "Inductor SMD L=330uH; Isat=180mA; Irated=65mA",
+  "footprint": "Inductor_SMD:L_1210_3225Metric",
+  "keywords": "Inductor",
+  "library": "_L_1210",
+  "reference": "L",
+  "symbol": "Device:L",
+  "value": "330uH"
+}

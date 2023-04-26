@@ -1,0 +1,18 @@
+{
+  "customFields": {
+    "MF": "FTDI",
+    "MPN": "FT230XQ",
+    "OC_CONRAD": "",
+    "OC_FARNELL": "",
+    "OC_MOUSER": "895-FT230XQ-R",
+    "OC_REICHELT": ""
+  },
+  "datasheet": "http://www.ftdichip.com/Products/ICs/FT230X.html",
+  "description": "Full Speed USB to Basic UART, QFN-16",
+  "footprint": "Package_DFN_QFN:QFN-16-1EP_4x4mm_P0.65mm_EP2.1x2.1mm",
+  "keywords": "FTDI USB UART interface converter",
+  "library": "_Interface_USB",
+  "reference": "U",
+  "symbol": "Interface_USB:FT230XQ",
+  "value": "FT230XQ"
+}

@@ -1,0 +1,18 @@
+{
+  "customFields": {
+    "MF": "",
+    "MPN": "",
+    "OC_CONRAD": "",
+    "OC_FARNELL": "",
+    "OC_MOUSER": "",
+    "OC_REICHELT": ""
+  },
+  "datasheet": "",
+  "description": "Pin Socket P2.54mm THT Vertical 2x20",
+  "footprint": "Connector_PinSocket_2.54mm:PinSocket_2x20_P2.54mm_Vertical",
+  "keywords": "Pin Socket",
+  "library": "_Connector_PinSocket",
+  "reference": "X",
+  "symbol": "Connector_Generic:Conn_02x20_Odd_Even",
+  "value": "02x20_P2.54mm_Vert"
+}

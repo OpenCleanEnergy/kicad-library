@@ -1,0 +1,18 @@
+{
+  "CustomFields": {
+    "MF": "",
+    "MPN": "",
+    "OC_FARNELL": "",
+    "OC_MOUSER": "710-860021373002",
+    "OC_REICHELT": ""
+  },
+  "Datasheet": "",
+  "Description": "Electrolytic capacitor 1u 400V",
+  "Footprint": "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm",
+
+  "Keywords": "cap capacitor",
+  "Library": "_C_Electrolytic",
+  "Reference": "C",
+  "Symbol": "Device:C_Polarized",
+  "Value": "1u_400V"
+}

@@ -1,0 +1,18 @@
+{
+  "customFields": {
+    "MF": "Microchip Technology",
+    "MPN": "MIC5232-2.5YD5",
+    "OC_CONRAD": "",
+    "OC_FARNELL": "",
+    "OC_MOUSER": " 998-MIC5232-2.5YD5TR",
+    "OC_REICHELT": ""
+  },
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/mic5232.pdf",
+  "description": "10mA Ultra-Low Quiescent Current; 2.5V, 10mA, Vin: 2.7 - 7V; SOT-23-5",
+  "footprint": "Package_TO_SOT_SMD:TSOT-23-5",
+  "keywords": "ldo linear fixed positive",
+  "library": "_Regulator_Linear",
+  "reference": "U",
+  "symbol": "Regulator_Linear:MIC5365-3.3YD5",
+  "value": "MIC5232-2.5YD5"
+}

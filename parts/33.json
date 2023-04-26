@@ -1,0 +1,16 @@
+{
+  "customFields": {
+    "MF": "MPS",
+    "MPN": "MP171GJ-Z",
+    "OC_FARNELL": "",
+    "OC_MOUSER": "946-MP171GJ-Z"
+  },
+  "datasheet": "https://www.monolithicpower.com/pub/media/document/m/p/mp171_r1.01.pdf",
+  "description": "60mA Non-Isolated Off-Line Regulator, 700V Input Voltage, Adjustable Output Voltage, TSOT-23-5",
+  "footprint": "Package_TO_SOT_SMD:TSOT-23-5",
+  "keywords": "regulator switching adjustable",
+  "library": "_Regulator_Switching",
+  "reference": "U",
+  "symbol": "Regulator_Switching:MP171GJ",
+  "value": "MP171GJ"
+}

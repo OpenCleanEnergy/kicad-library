@@ -1,0 +1,19 @@
+{
+  "Library": "_C_1210",
+  "Reference": "C",
+  "Symbol": "Device:C",
+  "Value": "4.7uF_50V",
+  "Footprint": "Capacitor_SMD:C_1210_3225Metric",
+  "Description": "Capacitor 1210 4.7uF 50V X7R 10%",
+  "Datasheet": "",
+  "Keywords": "Cap Capacitor",
+  "CustomFields": {
+    "MF": "",
+    "MPN": "",
+    "OC_CONRAD": "",
+    "OC_FARNELL": "",
+    "OC_LCSC": "",
+    "OC_MOUSER": "",
+    "OC_REICHELT": "KEM X7R1210 4,7U"
+  }
+}
