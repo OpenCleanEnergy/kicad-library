@@ -1,0 +1,19 @@
+{
+  "Library": "_Transistor_FET",
+  "Reference": "Q",
+  "Symbol": "OpenCE:MASTERGAN1",
+  "Value": "MASTERGAN1",
+  "Footprint": "OpenCE:ST_QFN-31-3EP_9x9mm_P0.6mm",
+  "Description": "High power density 600V half-bridge driver with two enhancement mode GaN HEMTs; RDS(ON) = 150 m\u2126; IDS(MAX) = 10 A",
+  "Datasheet": "https://www.st.com/resource/en/datasheet/mastergan1.pdf",
+  "Keywords": "GAN",
+  "CustomFields": {
+    "MF": "ST",
+    "MPN": "MASTERGAN1",
+    "OC_CONRAD": "",
+    "OC_FARNELL": "",
+    "OC_LCSC": "",
+    "OC_MOUSER": "511-MASTERGAN1",
+    "OC_REICHELT": ""
+  }
+}
