@@ -1,0 +1,19 @@
+{
+  "Library": "_C_Film",
+  "Reference": "C",
+  "Symbol": "Device:C",
+  "Value": "30uF_450V",
+  "Footprint": "OpenCE:C_Rect_L43mm_W42mm_H25mm_P37.5mm_P20.3mm_KEMET",
+  "Description": "Film Capacitor, 30uF 600VDC@85\u00B0C, 450VDC@105\u00B0C",
+  "Datasheet": "https://content.kemet.com/datasheets/KEM_F3126_C4AU.pdf",
+  "Keywords": "",
+  "CustomFields": {
+    "MF": "KEMET",
+    "MPN": "C4AQCLW5300A38K",
+    "OC_CONRAD": "",
+    "OC_FARNELL": "",
+    "OC_LCSC": "",
+    "OC_MOUSER": "80-C4AQCLW5300A38K",
+    "OC_REICHELT": ""
+  }
+}
