@@ -27,6 +27,18 @@ git remote add -f kicad-footprints https://gitlab.com/kicad/libraries/kicad-foot
 git subtree add --prefix footprints kicad-footprints master --squash
 ```
 
+## Update KiCad Symbols or Footprints
+
+### Symbols
+```bash
+git subtree pull --prefix symbols kicad-symbols master --squash
+```
+
+### Footprints
+```bash
+git subtree pull --prefix footprints kicad-footprints master --squash
+```
+
 ## Misc
 
 Diode footprints have two formats:  
