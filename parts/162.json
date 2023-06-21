@@ -1,0 +1,19 @@
+{
+  "Library": "_C_0805",
+  "Reference": "C",
+  "Symbol": "Device:C",
+  "Value": "22u_25V",
+  "Footprint": "Capacitor_SMD:C_0805_2012Metric",
+  "Description": "Capacitor 22uF 25V 0805 X5R 20%",
+  "Datasheet": "",
+  "Keywords": "Cap Capacitor",
+  "CustomFields": {
+    "MF": "",
+    "MPN": "",
+    "OC_CONRAD": "",
+    "OC_FARNELL": "",
+    "OC_LCSC": "C45783",
+    "OC_MOUSER": "",
+    "OC_REICHELT": ""
+  }
+}
