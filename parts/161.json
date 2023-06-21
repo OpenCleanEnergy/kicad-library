@@ -1,0 +1,19 @@
+{
+  "Library": "_Driver_FET",
+  "Reference": "U",
+  "Symbol": "Driver_FET:IR2304",
+  "Value": "IRS2304S",
+  "Footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "Description": "Half-Bridge Driver, 600V, 0.29A/0.6A",
+  "Datasheet": "https://www.infineon.com/dgdl/Infineon-IRS2308-DataSheet-v01_10-EN.pdf?fileId=5546d462533600a40153567a98ac2804",
+  "Keywords": "Gate Driver",
+  "CustomFields": {
+    "MF": "Infineon",
+    "MPN": "IRS2304SPbF",
+    "OC_CONRAD": "",
+    "OC_FARNELL": "",
+    "OC_LCSC": "C68271",
+    "OC_MOUSER": "942-IRS2304STRPBF",
+    "OC_REICHELT": ""
+  }
+}
