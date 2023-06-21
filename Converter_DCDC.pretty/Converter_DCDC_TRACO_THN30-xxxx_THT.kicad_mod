@@ -1,6 +1,6 @@
 (footprint "Converter_DCDC_TRACO_THN30-xxxx_THT" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
-  (descr "DCDC-Converter TRACO THN 10 to 30W, Single or dual Output, (https://www.tracopower.com/sites/default/files/products/datasheets/thn15wi_datasheet.pdf)")
+  (descr "DCDC-Converter TRACO THN 10 to 30W, Single or dual Output, (https://www.tracopower.com/sites/default/files/products/datasheets/thn30_datasheet.pdf)")
   (tags "DCDC-Converter TRACO THN30 Generic")
   (attr through_hole)
   (fp_text reference "REF**" (at 5.08 -3.5 unlocked) (layer "F.SilkS")
@@ -49,8 +49,8 @@
     (stroke (width 0.1) (type default)) (layer "F.Fab") (tstamp 569deefb-1027-4aa6-a9ac-0ddbcef37d8d))
   (pad "1" thru_hole roundrect (at 0 0) (size 2 2) (drill 1.24) (layers "*.Cu" "*.Mask") (roundrect_rratio 0.25) (tstamp b31fd0b4-bb30-43ce-b76a-c13e0dfe2f60))
   (pad "2" thru_hole circle (at 5.08 0) (size 2 2) (drill 1.24) (layers "*.Cu" "*.Mask") (tstamp 2eb9c803-bd4f-4bf9-b5cd-0c3050f48fe3))
+  (pad "3" thru_hole circle (at -7.62 20.32) (size 2 2) (drill 1.24) (layers "*.Cu" "*.Mask") (tstamp 55de05f6-5848-49de-a2ea-6adf9f982935))
   (pad "4" thru_hole circle (at 2.54 20.32) (size 2 2) (drill 1.24) (layers "*.Cu" "*.Mask") (tstamp 23891bf7-4b1c-419f-869e-fc8ef8bcf2f8))
-  (pad "5" thru_hole circle (at -7.62 20.32) (size 2 2) (drill 1.24) (layers "*.Cu" "*.Mask") (tstamp 55de05f6-5848-49de-a2ea-6adf9f982935))
   (pad "5" thru_hole circle (at 12.7 20.32) (size 2 2) (drill 1.24) (layers "*.Cu" "*.Mask") (tstamp 686ea1f4-ca67-4043-ac3a-2a633d0d7139))
   (pad "6" thru_hole circle (at 12.7 0) (size 2 2) (drill 1.24) (layers "*.Cu" "*.Mask") (tstamp 3471c8c6-52bc-4714-ae2b-05936fbe12ff))
   (model "${KICAD7_3DMODEL_DIR}/Converter_DCDC.3dshapes/Converter_DCDC_TRACO_THN30-xxxx_THT.wrl"
