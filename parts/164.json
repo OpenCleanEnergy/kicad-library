@@ -1,0 +1,19 @@
+{
+  "Library": "_C_Film",
+  "Reference": "C",
+  "Symbol": "Device:C",
+  "Value": "470n_630V",
+  "Footprint": "Capacitor_THT:C_Rect_L18.0mm_W8.0mm_P15.00mm_FKS3_FKP3",
+  "Description": "Film Capacitor X2, 470nF 10% 630VDC 320VAC, L: 18mm W: 7.5mm H: 18.5mm ",
+  "Datasheet": "https://content.kemet.com/datasheets/KEM_F3124_R53_X2_310_110C_MIN.pdf",
+  "Keywords": "",
+  "CustomFields": {
+    "MF": "KEMET",
+    "MPN": "533I347050P3K",
+    "OC_CONRAD": "",
+    "OC_FARNELL": "",
+    "OC_LCSC": "",
+    "OC_MOUSER": "80-R533I347050P3K",
+    "OC_REICHELT": ""
+  }
+}
