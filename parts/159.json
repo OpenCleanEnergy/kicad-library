@@ -2,7 +2,7 @@
   "Library": "_C_Film",
   "Reference": "C",
   "Symbol": "Device:C",
-  "Value": "30uF_450V",
+  "Value": "30uF_600V",
   "Footprint": "OpenCE:C_Rect_L43mm_W42mm_H25mm_P37.5mm_P20.3mm_KEMET",
   "Description": "Film Capacitor, 30uF 600VDC@85\u00B0C, 450VDC@105\u00B0C",
   "Datasheet": "https://content.kemet.com/datasheets/KEM_F3114_C4AQ.pdf",
