@@ -2,9 +2,9 @@
   "Library": "_C_1206",
   "Reference": "C",
   "Symbol": "Device:C",
-  "Value": "1.0uF_100V",
+  "Value": "1u_100V",
   "Footprint": "Capacitor_SMD:C_1206_3216Metric",
-  "Description": "Capacitor 1206 1.0uF 100V X7R 10%",
+  "Description": "Capacitor 1206 1uF 100V X7R 10%",
   "Datasheet": "https://product.samsungsem.com/mlcc/CL31B105KCHNNN.do",
   "Keywords": "Cap Capacitor",
   "CustomFields": {
