@@ -1,0 +1,19 @@
+{
+  "Library": "_R_0603",
+  "Reference": "R",
+  "Symbol": "Device:R",
+  "Value": "10R",
+  "Footprint": "Resistor_SMD:R_0603_1608Metric",
+  "Description": "Resistor 10R 1% 100mW 75V 0603",
+  "Datasheet": "",
+  "Keywords": "Res Resistor",
+  "CustomFields": {
+    "MF": "",
+    "MPN": "",
+    "OC_CONRAD": "",
+    "OC_FARNELL": "",
+    "OC_LCSC": "",
+    "OC_MOUSER": "603-AC0603FR-0710RL",
+    "OC_REICHELT": ""
+  }
+}
