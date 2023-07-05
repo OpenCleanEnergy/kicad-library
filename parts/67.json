@@ -1,16 +1,19 @@
 {
-  "customFields": {
+  "Library": "_R_1206",
+  "Reference": "R",
+  "Symbol": "Device:R",
+  "Value": "33K_500V",
+  "Footprint": "Resistor_SMD:R_1206_3216Metric",
+  "Description": "Resistor Anti-Surge 33kOhm 1% 660mW 1206 | Vrrm=500V | Vp=1000V",
+  "Datasheet": "https://www.mouser.de/datasheet/2/315/AOA0000C331-1141874.pdf",
+  "Keywords": "Res Resistor Anti Surge High Voltage",
+  "CustomFields": {
     "MF": "Panasonic",
     "MPN": "ERJ-P08F3302V",
+    "OC_CONRAD": "",
     "OC_FARNELL": "",
-    "OC_MOUSER": "667-ERJ-P08F3302V"
-  },
-  "datasheet": "https://www.mouser.de/datasheet/2/315/AOA0000C331-1141874.pdf",
-  "description": "Resistor Anti-Surge 33kOhm 1% 660mW 1206 | Vrrm=500V | Vp=1000V",
-  "footprint": "Resistor_SMD:R_1206_3216Metric",
-  "keywords": "Res Resistor Anti Surge High Voltage",
-  "library": "_R_1206",
-  "reference": "R",
-  "symbol": "Device:R",
-  "value": "33K,500V"
+    "OC_LCSC": "",
+    "OC_MOUSER": "667-ERJ-P08F3302V",
+    "OC_REICHELT": ""
+  }
 }

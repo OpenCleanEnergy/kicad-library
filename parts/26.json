@@ -1,18 +1,19 @@
 {
-  "customFields": {
+  "Library": "_C_0805",
+  "Reference": "C",
+  "Symbol": "Device:C",
+  "Value": "2u2_25V",
+  "Footprint": "Capacitor_SMD:C_0805_2012Metric",
+  "Description": "Capacitor 2.2uF 25V X5R 10% 0805",
+  "Datasheet": "",
+  "Keywords": "Cap Capacitor",
+  "CustomFields": {
     "MF": "",
     "MPN": "",
     "OC_CONRAD": "",
     "OC_FARNELL": "",
+    "OC_LCSC": "",
     "OC_MOUSER": "810-C2012X5R1E225K0C",
     "OC_REICHELT": ""
-  },
-  "datasheet": "",
-  "description": "Capacitor 2.2uF 25V X5R 10% 0805",
-  "footprint": "Capacitor_SMD:C_0805_2012Metric",
-  "keywords": "Cap Capacitor",
-  "library": "_C_0805",
-  "reference": "C",
-  "symbol": "Device:C",
-  "value": "2.2u_25V"
+  }
 }

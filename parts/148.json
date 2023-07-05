@@ -2,7 +2,7 @@
   "Library": "_C_1210",
   "Reference": "C",
   "Symbol": "Device:C",
-  "Value": "4.7uF_50V",
+  "Value": "4u7_50V",
   "Footprint": "Capacitor_SMD:C_1210_3225Metric",
   "Description": "Capacitor 1210 4.7uF 50V X7R 10%",
   "Datasheet": "",
