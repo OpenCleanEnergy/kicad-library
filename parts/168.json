@@ -1,0 +1,19 @@
+{
+  "Library": "_Transistor_FET",
+  "Reference": "Q",
+  "Symbol": "OpenCE:GAN7R0-150LBEZ",
+  "Value": "GAN7R0-150LBEZ",
+  "Footprint": "OpenCE:LGA_2.2mmx3.2mmx0.774mm",
+  "Description": "The GAN7R0-150LBE is a general purpose 150 V, 7 m\u03A9 Gallium Nitride (GaN) FET in a Land Grid Array (LGA) package. It is a normally-off e-mode device offering superior performance.",
+  "Datasheet": "https://assets.nexperia.com/documents/data-sheet/GAN7R0-150LBE.pdf",
+  "Keywords": "GAN",
+  "CustomFields": {
+    "MF": "Nexperia",
+    "MPN": "GAN7R0-150LBEZ",
+    "OC_CONRAD": "",
+    "OC_FARNELL": "",
+    "OC_LCSC": "",
+    "OC_MOUSER": "771-GAN7R0-150LBEZ",
+    "OC_REICHELT": ""
+  }
+}
