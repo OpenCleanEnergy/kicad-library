@@ -1,0 +1,19 @@
+{
+  "Library": "_L_Power",
+  "Reference": "L",
+  "Symbol": "Device:L",
+  "Value": "100uH@7.5A",
+  "Footprint": "OpenCE:L_6000B_Series_Murata",
+  "Description": "Power Inductor 100uH@7.5A (\u00B115%) 25m\u03A9 SRF 4.98MHz",
+  "Datasheet": "https://search.murata.co.jp/Ceramy/image/img/P02A/kmp_6000b.pdf",
+  "Keywords": "power inductor",
+  "CustomFields": {
+    "MF": "60B104C",
+    "MPN": "",
+    "OC_CONRAD": "",
+    "OC_FARNELL": "",
+    "OC_LCSC": "",
+    "OC_MOUSER": " 580-60B104C",
+    "OC_REICHELT": ""
+  }
+}
