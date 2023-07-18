@@ -1,0 +1,19 @@
+{
+  "Library": "_R_0603",
+  "Reference": "R",
+  "Symbol": "Device:R",
+  "Value": "33K",
+  "Footprint": "Resistor_SMD:R_0603_1608Metric",
+  "Description": "Resistor 33K 0.1% 100mW 75V 0603",
+  "Datasheet": "https://www.mouser.de/datasheet/2/447/PYu_RT_1_to_0_01_RoHS_L_12-3003070.pdf",
+  "Keywords": "Res Resistor",
+  "CustomFields": {
+    "MF": "YAGEO",
+    "MPN": "RT0603BRD0733KL",
+    "OC_CONRAD": "",
+    "OC_FARNELL": "",
+    "OC_LCSC": "",
+    "OC_MOUSER": "603-RT0603BRD0733KL",
+    "OC_REICHELT": ""
+  }
+}
