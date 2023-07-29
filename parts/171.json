@@ -1,0 +1,19 @@
+{
+  "Library": "_C_0805",
+  "Reference": "C",
+  "Symbol": "Device:C",
+  "Value": "10u_25V",
+  "Footprint": "Capacitor_SMD:C_0805_2012Metric",
+  "Description": "Capacitor 10uF 25V 0805 X5R 10%",
+  "Datasheet": "https://product.samsungsem.com/mlcc/CL21A106KAYNNN.do",
+  "Keywords": "Cap Capacitor",
+  "CustomFields": {
+    "MF": "Samsung Electro-Mechanics",
+    "MPN": "CL21A106KAYNNNE",
+    "OC_CONRAD": "",
+    "OC_FARNELL": "",
+    "OC_LCSC": "C15850",
+    "OC_MOUSER": "",
+    "OC_REICHELT": ""
+  }
+}
