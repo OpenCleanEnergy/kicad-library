@@ -1,0 +1,19 @@
+{
+  "Library": "_R_0603",
+  "Reference": "R",
+  "Symbol": "Device:R",
+  "Value": "500m",
+  "Footprint": "Resistor_SMD:R_0603_1608Metric",
+  "Description": "Resistor 500m\u03A9 1% 100mW 75V 0603",
+  "Datasheet": "https://datasheet.lcsc.com/lcsc/2206010000_UNI-ROYAL-Uniroyal-Elec-0603WAF500LT5E_C45312.pdf",
+  "Keywords": "Res Resistor",
+  "CustomFields": {
+    "MF": "UNI-ROYAL",
+    "MPN": "0603WAF500LT5E",
+    "OC_CONRAD": "",
+    "OC_FARNELL": "",
+    "OC_LCSC": "C45312",
+    "OC_MOUSER": "",
+    "OC_REICHELT": ""
+  }
+}
