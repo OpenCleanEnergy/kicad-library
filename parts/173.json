@@ -1,0 +1,19 @@
+{
+  "Library": "_R_0603",
+  "Reference": "R",
+  "Symbol": "Device:R",
+  "Value": "2R2",
+  "Footprint": "Resistor_SMD:R_0603_1608Metric",
+  "Description": "Resistor 2.2\u03A9 1% 100mW 75V 0603",
+  "Datasheet": "https://datasheet.lcsc.com/lcsc/2206010130_UNI-ROYAL-Uniroyal-Elec-0603WAF220KT5E_C22939.pdf",
+  "Keywords": "Res Resistor",
+  "CustomFields": {
+    "MF": "UNI-ROYAL",
+    "MPN": "0603WAF220KT5E",
+    "OC_CONRAD": "",
+    "OC_FARNELL": "",
+    "OC_LCSC": "C22939",
+    "OC_MOUSER": "",
+    "OC_REICHELT": ""
+  }
+}
