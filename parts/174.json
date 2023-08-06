@@ -2,18 +2,18 @@
   "Library": "_Diode_TVS",
   "Reference": "F",
   "Symbol": "Device:D_Zener",
-  "Value": "SMBJ120A",
+  "Value": "SMBJ100A",
   "Footprint": "Diode_SMD:D_SMB",
-  "Description": "120V 600W TVS Diode UniDir",
+  "Description": "100V 600W TVS Diode UniDir",
   "Datasheet": "https://www.mouser.de/datasheet/2/240/Littelfuse_TVS_Diode_SMBJ_Datasheet_pdf-1108540.pdf",
   "Keywords": "TVS UniDir",
   "CustomFields": {
     "MF": "Littelfuse",
-    "MPN": "SMBJ120A",
+    "MPN": "SMBJ100A",
     "OC_CONRAD": "",
     "OC_FARNELL": "",
-    "OC_LCSC": "C224005",
-    "OC_MOUSER": "576-SMBJ120A",
+    "OC_LCSC": "C151249",
+    "OC_MOUSER": "576-SMBJ100A",
     "OC_REICHELT": ""
   }
 }
