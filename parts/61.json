@@ -1,16 +1,19 @@
 {
-  "customFields": {
+  "Library": "_Diode_TVS",
+  "Reference": "F",
+  "Symbol": "Device:D_TVS",
+  "Value": "1.5SMC200CA",
+  "Footprint": "Diode_SMD:D_SMC",
+  "Description": "171V/200V/274V 1500W TVS Diode BiDir",
+  "Datasheet": "https://www.mouser.de/datasheet/2/54/1.5SMC-1299169.pdf",
+  "Keywords": "TVS Bidir",
+  "CustomFields": {
     "MF": "Bourns",
     "MPN": "1.5SMC200CA",
+    "OC_CONRAD": "",
     "OC_FARNELL": "",
-    "OC_MOUSER": "652-1.5SMC200CA"
-  },
-  "datasheet": "https://www.mouser.de/datasheet/2/54/1.5SMC-1299169.pdf",
-  "description": "171V/200V/274V 1500W TVS Diode UniDir",
-  "footprint": "Diode_SMD:D_SMC",
-  "keywords": "TVS Bidir",
-  "library": "_Diode_TVS",
-  "reference": "F",
-  "symbol": "Device:D_TVS",
-  "value": "1.5SMC200CA"
+    "OC_LCSC": "",
+    "OC_MOUSER": "652-1.5SMC200CA",
+    "OC_REICHELT": ""
+  }
 }
