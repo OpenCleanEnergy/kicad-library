@@ -8,12 +8,12 @@
   "Datasheet": "https://search.murata.co.jp/Ceramy/image/img/P02A/kmp_6000b.pdf",
   "Keywords": "power inductor",
   "CustomFields": {
-    "MF": "60B104C",
-    "MPN": "",
+    "MF": "Murata",
+    "MPN": "60B104C",
     "OC_CONRAD": "",
     "OC_FARNELL": "",
     "OC_LCSC": "",
-    "OC_MOUSER": " 580-60B104C",
+    "OC_MOUSER": "580-60B104C",
     "OC_REICHELT": ""
   }
 }
