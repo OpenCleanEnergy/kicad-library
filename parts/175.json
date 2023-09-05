@@ -4,11 +4,11 @@
   "Symbol": "OpenCE:L_Coupled_3_12_6_7",
   "Value": "760804310",
   "Footprint": "OpenCE:WE-PFC_RM12",
-  "Description": " PFC Choke; 300uH; Ir=2.4A; Isat=7.4A; N1:N2=52:5 100uH@7.5A (\u00B115%) 25m\u03A9 SRF 4.98MHz",
+  "Description": " PFC Choke; 300uH; Ir=2.4A; Isat=7.4A; N1:N2=52:5; N1=170m\u03A9; N2=250m\u03A9",
   "Datasheet": "https://www.we-online.com/components/products/datasheet/760804310.pdf",
   "Keywords": "PFC Choke",
   "CustomFields": {
-    "MF": "Wurth Elektronik",
+    "MF": "Wuerth Elektronik",
     "MPN": "760804310",
     "OC_CONRAD": "",
     "OC_FARNELL": "",
