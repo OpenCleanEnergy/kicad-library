@@ -1,0 +1,19 @@
+{
+  "Library": "_Amplifier_Operational",
+  "Reference": "U",
+  "Symbol": "Amplifier_Operational:LM2902",
+  "Value": "MCP6004-SL",
+  "Footprint": "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm",
+  "Description": "Quad 1.8V - 6V Rail-To-Rail Operational Amplifier, SOIC-14",
+  "Datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/MCP6001-1R-1U-2-4-1-MHz-Low-Power-Op-Amp-DS20001733L.pdf",
+  "Keywords": "Rail-To-Rail Operational Amplifier OpAmp Quad",
+  "CustomFields": {
+    "MF": "Microchip Technology",
+    "MPN": "MCP6004-I/SL",
+    "OC_CONRAD": "",
+    "OC_FARNELL": "",
+    "OC_LCSC": "C7378",
+    "OC_MOUSER": "579-MCP6004-I/SL",
+    "OC_REICHELT": ""
+  }
+}
