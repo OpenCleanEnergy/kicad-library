@@ -1,0 +1,19 @@
+{
+  "Library": "_C_Film",
+  "Reference": "C",
+  "Symbol": "Device:C",
+  "Value": "1u_630V",
+  "Footprint": "Capacitor_THT:C_Rect_L26.5mm_W8.5mm_P22.50mm_MKS4",
+  "Description": "Metallized Polypropylene (MPP) Film Capacitor, 1uF 5%, 630VDC@85\u00B0C, L/S=22.5mm",
+  "Datasheet": "https://www.mouser.de/datasheet/2/315/ABD0000C255-1131244.pdf",
+  "Keywords": "",
+  "CustomFields": {
+    "MF": "Panasonic",
+    "MPN": "ECW-FD2J105J",
+    "OC_CONRAD": "",
+    "OC_FARNELL": "",
+    "OC_LCSC": "",
+    "OC_MOUSER": "667-ECW-FD2J105J",
+    "OC_REICHELT": ""
+  }
+}
