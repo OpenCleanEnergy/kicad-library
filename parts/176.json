@@ -3,7 +3,7 @@
   "Reference": "L",
   "Symbol": "Device:L",
   "Value": "7687480121",
-  "Footprint": "OpenCE:L_Radial_D10.5mm_P5.00mm_H14.5mm_Wuerth_1014",
+  "Footprint": "OpenCE:L_Radial_D10.0mm_P5.00mm_H14.0mm_Wuerth_1014",
   "Description": "High Voltage Power Inductor; 120uH; Ir=2; Isat=2A; 180m\u03A9",
   "Datasheet": "https://www.we-online.com/components/products/datasheet/7687480121.pdf",
   "Keywords": "High Voltage Power Inductor",
