@@ -7,7 +7,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 3ed310bd-8c38-4e06-9f6a-47b554713fae)
   )
-  (fp_text value "ST_QFN-31-3EP_9x9mm_P0.6mm" (at 0 3.3) (layer "F.Fab")
+  (fp_text value "ST_QFN-31-3EP_9x9mm_P0.6mm" (at 0 6) (layer "F.Fab")
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp c105c27c-83f0-45c0-9c3a-6100806df9e4)
   )
