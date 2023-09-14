@@ -1,14 +1,14 @@
-(footprint "ThinPAK_8x8" (version 20221018) (generator pcbnew)
+(footprint "D_ThinPAK_8x8" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
   (descr "ThinPAK8x8")
   (tags "Schottky Diode")
   (attr smd)
-  (fp_text reference "D**" (at 0 0.55) (layer "F.SilkS")
+  (fp_text reference "D**" (at 0 -4.9) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 9da7bac0-781a-4247-89c6-85b33b1727c9)
   )
-  (fp_text value "IPL60R075CFD7AUMA1" (at 0 0.55) (layer "F.SilkS") hide
-      (effects (font (size 1.27 1.27) (thickness 0.254)))
+  (fp_text value "IPL60R075CFD7AUMA1" (at 0 5.9) (layer "F.SilkS") hide
+      (effects (font (size 1 1) (thickness 0.12)))
     (tstamp 058f5c1f-9be3-43a6-b36c-0825b7fcabc3)
   )
   (fp_text user "${REFERENCE}" (at 0 0.55) (layer "F.Fab")

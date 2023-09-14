@@ -3,7 +3,7 @@
   "Reference": "D",
   "Symbol": "Device:D_Schottky",
   "Value": "IDL04G65C5",
-  "Footprint": "OpenCE:ThinPAK_8x8",
+  "Footprint": "OpenCE:D_ThinPAK_8x8",
   "Description": "SiC Schottky Diode 650V 1.5V@4A 4A",
   "Datasheet": "https://www.infineon.com/dgdl/Infineon-IDL04G65C5-DS-v02_00-en.pdf?fileId=db3a304342e8be2c0143000fb94c146a",
   "Keywords": "Diode Schottky",
