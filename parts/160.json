@@ -3,7 +3,7 @@
   "Reference": "Q",
   "Symbol": "Device:Q_NMOS_GSD",
   "Value": "IPL60R125P7",
-  "Footprint": "Package_TO_SOT_SMD:PQFN_8x8",
+  "Footprint": "OpenCE:Q_ThinPAK_8x8_NMOS_GSD",
   "Description": "Power NMOS; Vds=600V; Rds_On=125mOhm; Vgs=10V ",
   "Datasheet": "https://www.infineon.com/dgdl/Infineon-IPL60R125P7-DS-v02_01-EN.pdf?fileId=5546d4625ee5d4cd015eebed2c195b42",
   "Keywords": "MOSFET NMOS",
