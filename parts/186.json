@@ -1,0 +1,19 @@
+{
+  "Library": "_C_1210",
+  "Reference": "C",
+  "Symbol": "Device:C",
+  "Value": "100n_500V",
+  "Footprint": "Capacitor_SMD:C_1210_3225Metric",
+  "Description": "Capacitor 1210 100nF 500V X7R 10%",
+  "Datasheet": "",
+  "Keywords": "Cap Capacitor",
+  "CustomFields": {
+    "MF": "",
+    "MPN": "",
+    "OC_CONRAD": "",
+    "OC_FARNELL": "",
+    "OC_LCSC": "",
+    "OC_MOUSER": "80-C1210C104KCRAUTO",
+    "OC_REICHELT": ""
+  }
+}
