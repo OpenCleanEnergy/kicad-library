@@ -1,0 +1,19 @@
+{
+  "Library": "_L_Power",
+  "Reference": "L",
+  "Symbol": "Device:L",
+  "Value": "7687709221",
+  "Footprint": "OpenCE:L_Wuerth_WE-PD-1210",
+  "Description": "High Voltage Power Inductor; 220uH; Ir=1.3; Isat=2A; 300m\u03A9",
+  "Datasheet": "https://www.we-online.com/components/products/datasheet/7687709221.pdf",
+  "Keywords": "High Voltage Power Inductor",
+  "CustomFields": {
+    "MF": "Wuerth Elektronik",
+    "MPN": "7687709221",
+    "OC_CONRAD": "",
+    "OC_FARNELL": "",
+    "OC_LCSC": "",
+    "OC_MOUSER": "710-7687709221",
+    "OC_REICHELT": ""
+  }
+}
