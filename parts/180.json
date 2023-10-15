@@ -2,18 +2,18 @@
   "Library": "_R_Power",
   "Reference": "R",
   "Symbol": "Device:R",
-  "Value": "1R6_2W",
+  "Value": "6R8_2W",
   "Footprint": "Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P5.08mm_Vertical",
-  "Description": "Resistor 1.6\u03A9 5% 2W 750V DIN0617",
+  "Description": "Resistor 6.8\u03A9 5% 2W 750V DIN0617",
   "Datasheet": "https://www.vishay.com/docs/28729/pr010203.pdf",
   "Keywords": "Res Resistor",
   "CustomFields": {
     "MF": "Vishay",
-    "MPN": "PR02000201608JR500",
+    "MPN": "PR02000206808JR500",
     "OC_CONRAD": "",
     "OC_FARNELL": "",
     "OC_LCSC": "",
-    "OC_MOUSER": "594-5083NW1R600J",
+    "OC_MOUSER": "594-5083NW6R800J",
     "OC_REICHELT": ""
   }
 }
