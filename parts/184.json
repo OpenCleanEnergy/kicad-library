@@ -1,0 +1,19 @@
+{
+  "Library": "_R_1206",
+  "Reference": "R",
+  "Symbol": "Device:R",
+  "Value": "0R",
+  "Footprint": "Resistor_SMD:R_1206_3216Metric",
+  "Description": "Resistor 0R Bridge",
+  "Datasheet": "",
+  "Keywords": "Res Resistor",
+  "CustomFields": {
+    "MF": "",
+    "MPN": "",
+    "OC_CONRAD": "",
+    "OC_FARNELL": "",
+    "OC_LCSC": "",
+    "OC_MOUSER": "",
+    "OC_REICHELT": ""
+  }
+}
