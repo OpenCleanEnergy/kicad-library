@@ -3843,7 +3843,7 @@
         (name "RefIn" (effects (font (size 1.27 1.27))))
         (number "3" (effects (font (size 1.27 1.27))))
       )
-      (pin input line (at 12.7 10.16 180) (length 5.08)
+      (pin output line (at 12.7 10.16 180) (length 5.08)
         (name "FOUT" (effects (font (size 1.27 1.27))))
         (number "4" (effects (font (size 1.27 1.27))))
       )
