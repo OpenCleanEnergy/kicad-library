@@ -28,9 +28,9 @@
   (fp_line (start 0.32 0.3) (end 0.92 0) (layer "F.SilkS") (width 0.12) (tstamp 190c969e-0157-4c20-beb4-178655265ba2))
   (fp_line (start 0.32 -0.3) (end 0.32 0.3) (layer "F.SilkS") (width 0.12) (tstamp 23a929b1-89cd-4cf7-a525-56628166d625))
   (fp_line (start 75.132 -0.74) (end 77.269 -0.74) (layer "F.SilkS") (width 0.12) (tstamp 364f57f0-f166-488d-a604-1ed836e83488))
-  (fp_line (start 86.63 -5.3) (end 86.63 0.26) (layer "F.SilkS") (width 0.12) (tstamp 3bbd76cb-26a4-4cc5-bfa7-4bcf1697d438))
+  (fp_line (start 86.63 -4.74) (end 86.63 0.26) (layer "F.SilkS") (width 0.12) (tstamp 3bbd76cb-26a4-4cc5-bfa7-4bcf1697d438))
   (fp_line (start 86.63 0.26) (end 81.11 0.26) (layer "F.SilkS") (width 0.12) (tstamp 5b98ae7b-82bc-4076-91f4-71342b247908))
-  (fp_line (start -7.89 -5.3) (end -7.89 0.26) (layer "F.SilkS") (width 0.12) (tstamp 5c60d8fd-b786-49b5-a09d-7af020de56a6))
+  (fp_line (start -7.89 -4.74) (end -7.89 0.26) (layer "F.SilkS") (width 0.12) (tstamp 5c60d8fd-b786-49b5-a09d-7af020de56a6))
   (fp_line (start -7.89 0.26) (end -2.37 0.26) (layer "F.SilkS") (width 0.12) (tstamp 70da4aa4-e8b8-434c-9c4e-1a62fd72bae4))
   (fp_line (start 59.892 -0.74) (end 62.029 -0.74) (layer "F.SilkS") (width 0.12) (tstamp 760ebd8f-8f2e-4f6b-9f3c-b8f70fb42872))
   (fp_line (start 14.172 -0.74) (end 16.309 -0.74) (layer "F.SilkS") (width 0.12) (tstamp 89341bfd-2d07-4030-b338-46e9a5102958))
@@ -123,7 +123,7 @@
   (pad "e28" thru_hole circle (at 68.58 10.16) (size 2.6 2.6) (drill 1.6) (layers *.Cu *.Mask) (tstamp 467d11a3-68ee-4010-95e0-425ecc3b2e48))
   (pad "e30" thru_hole circle (at 73.66 10.16) (size 2.6 2.6) (drill 1.6) (layers *.Cu *.Mask) (tstamp 31b40f84-d4c3-4678-9377-6b9cd7de117e))
   (pad "e32" thru_hole circle (at 78.74 10.16) (size 2.6 2.6) (drill 1.6) (layers *.Cu *.Mask) (tstamp b6d9f0c0-12fc-48c4-ae8d-70f00c6b35bb))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_DIN.3dshapes/DIN41612_E_3x16_Male_Horizontal_THT.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Connector_DIN.3dshapes/DIN41612_E_3x16_Male_Horizontal_THT.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

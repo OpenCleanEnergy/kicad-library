@@ -32,8 +32,8 @@
   (fp_line (start 11.03 -0.74) (end 11.831 -0.74) (layer "F.SilkS") (width 0.12) (tstamp 59e2cb83-1cab-4374-95d0-bbc9c5ed5fcc))
   (fp_line (start 1.095 -0.74) (end 1.671 -0.74) (layer "F.SilkS") (width 0.12) (tstamp 993d167f-8577-4fd2-9316-9ac467337ea1))
   (fp_line (start -7.88 0.26) (end -2.36 0.26) (layer "F.SilkS") (width 0.12) (tstamp 998050a3-843c-4a60-b38e-283bcd804353))
-  (fp_line (start 30.74 -5.3) (end 30.74 0.26) (layer "F.SilkS") (width 0.12) (tstamp ac0eaeb9-6fb6-41a4-b378-59cc523513a6))
-  (fp_line (start -7.88 -5.3) (end -7.88 0.26) (layer "F.SilkS") (width 0.12) (tstamp b92ee72d-3320-428a-93fa-e0d2a4f5d1b1))
+  (fp_line (start 30.74 -4.74) (end 30.74 0.26) (layer "F.SilkS") (width 0.12) (tstamp ac0eaeb9-6fb6-41a4-b378-59cc523513a6))
+  (fp_line (start -7.88 -4.74) (end -7.88 0.26) (layer "F.SilkS") (width 0.12) (tstamp b92ee72d-3320-428a-93fa-e0d2a4f5d1b1))
   (fp_line (start 8.49 -0.74) (end 9.291 -0.74) (layer "F.SilkS") (width 0.12) (tstamp c00fa942-afc8-4a08-a8e4-4c6221506703))
   (fp_line (start -2.36 0.26) (end -2.36 -0.74) (layer "F.SilkS") (width 0.12) (tstamp c1f24545-a63f-4a27-a199-4b9cf8a48abb))
   (fp_line (start -1.695 -0.3) (end -1.695 0.3) (layer "F.SilkS") (width 0.12) (tstamp d865c8ac-2c8c-4cf0-9910-bdb907133f7c))
@@ -99,7 +99,7 @@
   (pad "c8" thru_hole circle (at 17.78 5.08) (size 1.55 1.55) (drill 1) (layers *.Cu *.Mask) (tstamp d39bb230-6f4d-48be-a1e4-f7cc6dc29c29))
   (pad "c9" thru_hole circle (at 20.32 5.08) (size 1.55 1.55) (drill 1) (layers *.Cu *.Mask) (tstamp c23c0593-b06b-40bb-b6fd-7ca0dc9f848c))
   (pad "c10" thru_hole circle (at 22.86 5.08) (size 1.55 1.55) (drill 1) (layers *.Cu *.Mask) (tstamp 4d97b724-d216-4e53-bc6b-e987b0caa8f9))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_DIN.3dshapes/DIN41612_C3_3x10_Male_Horizontal_THT.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Connector_DIN.3dshapes/DIN41612_C3_3x10_Male_Horizontal_THT.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

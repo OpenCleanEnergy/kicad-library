@@ -39,10 +39,10 @@
   (fp_line (start 13.57 -0.74) (end 16.911 -0.74) (layer "F.SilkS") (width 0.12) (tstamp 9213c4c8-fce3-490c-bf7d-8207b522f5c7))
   (fp_line (start 28.81 -0.74) (end 32.151 -0.74) (layer "F.SilkS") (width 0.12) (tstamp 9372de47-157b-43e4-a7b1-3dbff6ab2063))
   (fp_line (start 23.73 -0.74) (end 27.071 -0.74) (layer "F.SilkS") (width 0.12) (tstamp 9e374f2e-629a-4b26-94b8-d0fbe55d03d6))
-  (fp_line (start 86.63 -5.3) (end 86.63 0.26) (layer "F.SilkS") (width 0.12) (tstamp a7b69e65-031f-4b7c-a0c2-574d58f59163))
+  (fp_line (start 86.63 -4.74) (end 86.63 0.26) (layer "F.SilkS") (width 0.12) (tstamp a7b69e65-031f-4b7c-a0c2-574d58f59163))
   (fp_line (start 18.65 -0.74) (end 21.991 -0.74) (layer "F.SilkS") (width 0.12) (tstamp ad9e217c-bafc-4b8a-a5ad-97362631d6a2))
   (fp_line (start -2.37 0.26) (end -2.37 -0.74) (layer "F.SilkS") (width 0.12) (tstamp b1c65331-d98e-410b-8bd4-f86944c34087))
-  (fp_line (start -7.89 -5.3) (end -7.89 0.26) (layer "F.SilkS") (width 0.12) (tstamp c71fa2d1-4b01-486a-aaa4-4094ca777afe))
+  (fp_line (start -7.89 -4.74) (end -7.89 0.26) (layer "F.SilkS") (width 0.12) (tstamp c71fa2d1-4b01-486a-aaa4-4094ca777afe))
   (fp_line (start 38.97 -0.74) (end 42.311 -0.74) (layer "F.SilkS") (width 0.12) (tstamp e01a8fca-f5db-40ad-a14a-8204850c05b0))
   (fp_line (start 69.45 -0.74) (end 72.791 -0.74) (layer "F.SilkS") (width 0.12) (tstamp e1285955-820a-4d6d-8bc2-75a687b86a48))
   (fp_line (start 3.635 -0.74) (end 6.751 -0.74) (layer "F.SilkS") (width 0.12) (tstamp ee1ca187-3b7b-45c7-b104-75d8b1d63949))
@@ -123,7 +123,7 @@
   (pad "z28" thru_hole circle (at 68.58 0) (size 1.55 1.55) (drill 1) (layers *.Cu *.Mask) (tstamp 78c38764-3ab0-406b-b75e-52da5911431c))
   (pad "z30" thru_hole circle (at 73.66 0) (size 1.55 1.55) (drill 1) (layers *.Cu *.Mask) (tstamp 3e73c6cf-7484-48c1-85ee-3ce08a5aedbd))
   (pad "z32" thru_hole circle (at 78.74 0) (size 1.55 1.55) (drill 1) (layers *.Cu *.Mask) (tstamp 7cd60be6-2544-4224-8353-bdb90e10310e))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_DIN.3dshapes/DIN41612_F_3x16_Male_Horizontal_THT.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Connector_DIN.3dshapes/DIN41612_F_3x16_Male_Horizontal_THT.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
