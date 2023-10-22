@@ -1,0 +1,19 @@
+{
+  "Library": "_Amplifier_Current",
+  "Reference": "U",
+  "Symbol": "OpenCE:INA381AxIDGS",
+  "Value": "INA381A2IDGS",
+  "Footprint": "Package_SO:VSSOP-10_3x3mm_P0.5mm",
+  "Description": "26-V, High-Speed, Current Sense Amplifier With Integrated Comparator",
+  "Datasheet": "https://www.ti.com/lit/ds/symlink/ina381.pdf",
+  "Keywords": "",
+  "CustomFields": {
+    "MF": "Texas Instruments",
+    "MPN": "INA381A2IDGS",
+    "OC_CONRAD": "",
+    "OC_FARNELL": "",
+    "OC_LCSC": "C1849464",
+    "OC_MOUSER": "595-INA381A2IDGSR",
+    "OC_REICHELT": ""
+  }
+}
