@@ -4986,7 +4986,7 @@
         (name "RefIn" (effects (font (size 1.27 1.27))))
         (number "3" (effects (font (size 1.27 1.27))))
       )
-      (pin input line (at 15.24 10.16 180) (length 7.62)
+      (pin output line (at 15.24 10.16 180) (length 7.62)
         (name "FOUT" (effects (font (size 1.27 1.27))))
         (number "4" (effects (font (size 1.27 1.27))))
       )
