@@ -35,7 +35,7 @@
   (pad "2" smd rect (at 1.125 0.875) (size 1.65 1.35) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp dab1179a-dba1-47f4-8496-2788098899c4))
   (pad "3" smd rect (at 1.125 -0.875) (size 1.65 1.35) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp f99e50df-5aed-4cf0-b2d0-4feb4bd46b67))
   (pad "4" smd rect (at -1.125 -0.875) (size 1.65 1.35) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp ba2cc0e0-4d10-4040-bc8f-e506a87cbc68))
-  (model "${KICAD6_3DMODEL_DIR}/Oscillator.3dshapes/Oscillator_SMD_SeikoEpson_SG210-4Pin_2.5x2.0mm_HandSoldering.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Oscillator.3dshapes/Oscillator_SMD_SeikoEpson_SG210-4Pin_2.5x2.0mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -22,7 +22,7 @@
   )
   (fp_line (start 8.49 -0.74) (end 11.831 -0.74) (layer "F.SilkS") (width 0.12) (tstamp 0388636e-c134-452c-80f0-0017b4065e23))
   (fp_line (start 1.445 0) (end 0.845 -0.3) (layer "F.SilkS") (width 0.12) (tstamp 0579a335-ba93-4530-b9c8-b8778d36e877))
-  (fp_line (start 86.63 -5.3) (end 86.63 0.26) (layer "F.SilkS") (width 0.12) (tstamp 08d5f60b-8077-413a-8f34-d11ca61d979f))
+  (fp_line (start 86.63 -4.74) (end 86.63 0.26) (layer "F.SilkS") (width 0.12) (tstamp 08d5f60b-8077-413a-8f34-d11ca61d979f))
   (fp_line (start 0.845 -0.3) (end 0.845 0.3) (layer "F.SilkS") (width 0.12) (tstamp 0f14ce2d-7249-4b91-8612-846282cc6774))
   (fp_line (start 23.73 -0.74) (end 27.071 -0.74) (layer "F.SilkS") (width 0.12) (tstamp 28b87384-8a78-47c2-9351-16b309472109))
   (fp_line (start 3.635 -0.74) (end 6.751 -0.74) (layer "F.SilkS") (width 0.12) (tstamp 2d028045-05c4-4ba7-bbb7-956079ad48e0))
@@ -36,7 +36,7 @@
   (fp_line (start -2.371 -0.74) (end 1.445 -0.74) (layer "F.SilkS") (width 0.12) (tstamp 50e46f18-9dba-41a1-a844-5bb5e2ce3a63))
   (fp_line (start 18.65 -0.74) (end 21.991 -0.74) (layer "F.SilkS") (width 0.12) (tstamp 7424560f-ea3f-46ee-ad07-2f8fbb7ab569))
   (fp_line (start -7.89 0.26) (end -2.37 0.26) (layer "F.SilkS") (width 0.12) (tstamp 756be0e3-a67f-42d0-9639-4139afea204b))
-  (fp_line (start -7.89 -5.3) (end -7.89 0.26) (layer "F.SilkS") (width 0.12) (tstamp 75b8c0d4-29b8-4b0f-a9b9-44827076e2f5))
+  (fp_line (start -7.89 -4.74) (end -7.89 0.26) (layer "F.SilkS") (width 0.12) (tstamp 75b8c0d4-29b8-4b0f-a9b9-44827076e2f5))
   (fp_line (start 0.845 0.3) (end 1.445 0) (layer "F.SilkS") (width 0.12) (tstamp 9e355cd5-cd4a-4e69-ba10-10cb7b19d7ab))
   (fp_line (start 74.53 -0.74) (end 77.871 -0.74) (layer "F.SilkS") (width 0.12) (tstamp a2c0eadd-134b-43a6-ad90-e47f3ad4f871))
   (fp_line (start 69.45 -0.74) (end 72.791 -0.74) (layer "F.SilkS") (width 0.12) (tstamp a2f196aa-75f8-4e9f-b5fd-5635435beb7e))
@@ -123,7 +123,7 @@
   (pad "c28" thru_hole circle (at 68.58 5.08) (size 1.55 1.55) (drill 1) (layers *.Cu *.Mask) (tstamp a8a3bfcc-0c24-49cf-b68a-aa6ae7516a97))
   (pad "c30" thru_hole circle (at 73.66 5.08) (size 1.55 1.55) (drill 1) (layers *.Cu *.Mask) (tstamp 439520d8-226d-4b68-aa0a-6ae60eafcaae))
   (pad "c32" thru_hole circle (at 78.74 5.08) (size 1.55 1.55) (drill 1) (layers *.Cu *.Mask) (tstamp 6612e198-2bcd-4254-b383-911299c99fd9))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_DIN.3dshapes/DIN41612_C_3x16_Male_Horizontal_THT.wrl"
+  (model "${KICAD7_3DMODEL_DIR}/Connector_DIN.3dshapes/DIN41612_C_3x16_Male_Horizontal_THT.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
