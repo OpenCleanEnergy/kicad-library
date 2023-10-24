@@ -1,0 +1,19 @@
+{
+  "Library": "_L_Power",
+  "Reference": "L",
+  "Symbol": "Device:L",
+  "Value": "74437429203151",
+  "Footprint": "OpenCE:L_Wuerth_WE-HCF-2920",
+  "Description": "High Current Inductor; 150uH; Ir=7.9A; Isat=6A; 42.74m\u03A9",
+  "Datasheet": "https://www.we-online.com/components/products/datasheet/74437429203151.pdf",
+  "Keywords": "High Current Inductor with litz wire",
+  "CustomFields": {
+    "MF": "Wuerth Elektronik",
+    "MPN": "74437429203151",
+    "OC_CONRAD": "",
+    "OC_FARNELL": "",
+    "OC_LCSC": "",
+    "OC_MOUSER": "710-74437429203151 ",
+    "OC_REICHELT": ""
+  }
+}
