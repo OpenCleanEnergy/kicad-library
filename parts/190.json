@@ -1,0 +1,19 @@
+{
+  "Library": "_Amplifier_Operational",
+  "Reference": "U",
+  "Symbol": "Amplifier_Operational:MCP6001x-LT",
+  "Value": "MCP6001T-OT",
+  "Footprint": "Package_TO_SOT_SMD:SOT-23-5",
+  "Description": "Single 1.8V to 6V Rail-To-Rail Operational Amplifier, SOT-23-5",
+  "Datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/MCP6001-1R-1U-2-4-1-MHz-Low-Power-Op-Amp-DS20001733L.pdf",
+  "Keywords": "Rail-To-Rail Operational Amplifier OpAmp",
+  "CustomFields": {
+    "MF": "Microchip Technology",
+    "MPN": "MCP6001T-I/OT",
+    "OC_CONRAD": "",
+    "OC_FARNELL": "",
+    "OC_LCSC": "C116490",
+    "OC_MOUSER": "579-MCP6001T-I/OT",
+    "OC_REICHELT": ""
+  }
+}

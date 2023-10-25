@@ -1,7 +1,7 @@
 {
   "Library": "_Amplifier_Operational",
   "Reference": "U",
-  "Symbol": "Amplifier_Operational:AD8603",
+  "Symbol": "Amplifier_Operational:MCP6001x-LT",
   "Value": "OPA171DBV",
   "Footprint": "Package_TO_SOT_SMD:SOT-23-5",
   "Description": "Single 2.7V to 36V Rail-To-Rail Operational Amplifier, SOT-23-5",
