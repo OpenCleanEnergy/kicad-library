@@ -218,7 +218,7 @@
       (effects (font (size 1.27 1.27)) (justify left top) hide)
     )
     (property "Datasheet" "https://www.ti.com/lit/gpn/LM5163" (at -16.51 1.27 0)
-      (effects (font (size 1.27 1.27)) (justify left top))
+      (effects (font (size 1.27 1.27)) (justify left top) hide)
     )
     (property "Height" "1.7" (at 13.97 -391.11 0)
       (effects (font (size 1.27 1.27)) (justify left top) hide)
