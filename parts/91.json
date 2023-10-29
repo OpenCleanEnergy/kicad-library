@@ -1,18 +1,19 @@
 {
-  "customFields": {
+  "Library": "_Relay",
+  "Reference": "K",
+  "Symbol": "Relay:Relay_SPST-NO",
+  "Value": "G6DN-1ADC12",
+  "Footprint": "OpenCE:Relay_SPST_Omron_G6DN-1A",
+  "Description": "SPST, Slim Power Relay, Power Rating: 5A / 250VAC / 30VDC, Coil: 12V / 110mW",
+  "Datasheet": "https://omronfs.omron.com/en_US/ecb/products/pdf/en-g6dn.pdf",
+  "Keywords": "Relay Single Pole",
+  "CustomFields": {
     "MF": "Omron Electronics",
-    "MPN": "G6DN-1A DC12",
+    "MPN": "G6DN-1A(-SL) DC12",
     "OC_CONRAD": "",
     "OC_FARNELL": "",
-    "OC_MOUSER": "653-G6DN1ADC12",
+    "OC_LCSC": "",
+    "OC_MOUSER": "G6DN-1A-SL DC12",
     "OC_REICHELT": ""
-  },
-  "datasheet": "https://omronfs.omron.com/en_US/ecb/products/pdf/en-g6dn.pdf",
-  "description": "SPST Slim Power Relay 5 A 250 VAC/30 VDC",
-  "footprint": "Relay_THT:Relay_SPST_TE_PCH-1xxx2M",
-  "keywords": "Relay Single Pole",
-  "library": "_Relay",
-  "reference": "K",
-  "symbol": "Relay:TE_PCH-1xxx2M",
-  "value": "G6DN-1ADC12"
+  }
 }
