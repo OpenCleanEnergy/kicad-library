@@ -1,0 +1,19 @@
+{
+  "Library": "_Power_Management",
+  "Reference": "U",
+  "Symbol": "Power_Management:CAP002DG",
+  "Value": "CAP005DG",
+  "Footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "Description": "CapZero Automatic Capacitor Discarger, 825V, \u003C=1.5uF, 480kOhm, SOIC-8",
+  "Datasheet": "https://ac-dc.power.com/sites/default/files/product-docs/capzero_family_datasheet.pdf",
+  "Keywords": "Automatic Capacitor Discarger",
+  "CustomFields": {
+    "MF": "Power Integrations",
+    "MPN": "CAP005DG",
+    "OC_CONRAD": "",
+    "OC_FARNELL": "",
+    "OC_LCSC": "",
+    "OC_MOUSER": "869-CAP005DG-TL",
+    "OC_REICHELT": ""
+  }
+}
