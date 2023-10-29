@@ -1,0 +1,19 @@
+{
+  "Library": "_Regulator_Switching",
+  "Reference": "U",
+  "Symbol": "OpenCE:LM5163DDAR",
+  "Value": "LM5163",
+  "Footprint": "Package_SO:TI_SO-PowerPAD-8_ThermalVias",
+  "Description": "0.5A, Synchronous Buck DC/DC Converter, Adjustable Output Voltage, 6-100V Input Voltage, PowerSO-8",
+  "Datasheet": "https://www.ti.com/lit/ds/symlink/lm5163.pdf",
+  "Keywords": "Step-Down DC-DC Switching Regulator",
+  "CustomFields": {
+    "MF": "Texas Instruments",
+    "MPN": "\r\nLM5163DDAR",
+    "OC_CONRAD": "",
+    "OC_FARNELL": "",
+    "OC_LCSC": "C2873264",
+    "OC_MOUSER": "595-LM5163DDAR",
+    "OC_REICHELT": ""
+  }
+}
