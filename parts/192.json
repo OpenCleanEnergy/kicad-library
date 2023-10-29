@@ -1,0 +1,19 @@
+{
+  "Library": "_C_0603",
+  "Reference": "C",
+  "Symbol": "Device:C",
+  "Value": "2.2n_50V",
+  "Footprint": "Capacitor_SMD:C_0603_1608Metric",
+  "Description": "Capacitor 2.2nF 50V X7R 10% 0603",
+  "Datasheet": "https://datasheet.lcsc.com/lcsc/2304140030_FH--Guangdong-Fenghua-Advanced-Tech-0603B222K500NT_C1604.pdf",
+  "Keywords": "Cap Capacitor",
+  "CustomFields": {
+    "MF": "FH (Guangdong Fenghua Advanced Tech)",
+    "MPN": "0603B222K500NT",
+    "OC_CONRAD": "",
+    "OC_FARNELL": "",
+    "OC_LCSC": "C1604",
+    "OC_MOUSER": "",
+    "OC_REICHELT": ""
+  }
+}
