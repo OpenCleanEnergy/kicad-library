@@ -1,0 +1,19 @@
+{
+  "Library": "_Varistor",
+  "Reference": "F",
+  "Symbol": "Device:Varistor",
+  "Value": "MOV-20D431K",
+  "Footprint": "Varistor:RV_Disc_D21.5mm_W5.6mm_P10mm",
+  "Description": "Varistor, Continuous Voltage: 275VAC, Clamping Voltage: 710V",
+  "Datasheet": "https://www.bourns.com/docs/Product-Datasheets/MOV20D.pdf",
+  "Keywords": "Varistor",
+  "CustomFields": {
+    "MF": "Mouser",
+    "MPN": "MOV-20D431K",
+    "OC_CONRAD": "",
+    "OC_FARNELL": "",
+    "OC_LCSC": "C1531025",
+    "OC_MOUSER": "652-MOV-20D431K",
+    "OC_REICHELT": ""
+  }
+}
