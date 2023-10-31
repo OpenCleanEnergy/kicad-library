@@ -1,0 +1,19 @@
+{
+  "Library": "_C_Safety",
+  "Reference": "C",
+  "Symbol": "Device:C",
+  "Value": "2n2_300VAC_Y2",
+  "Footprint": "Capacitor_THT:C_Rect_L13.0mm_W4.0mm_P10.00mm_FKS3_FKP3_MKS4",
+  "Description": "Y2 Safety Capacitor, 2.2nF 20%, 300VAC, Pitch 10mm",
+  "Datasheet": "https://www.tdk-electronics.tdk.com/inf/20/20/db/fc_2009/Y2_B32021_026.pdf",
+  "Keywords": "",
+  "CustomFields": {
+    "MF": "TDK",
+    "MPN": "B32021A3222M",
+    "OC_CONRAD": "",
+    "OC_FARNELL": "",
+    "OC_LCSC": "",
+    "OC_MOUSER": "871-B32021A3222M",
+    "OC_REICHELT": ""
+  }
+}
