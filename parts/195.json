@@ -2,9 +2,9 @@
   "Library": "_R_1206",
   "Reference": "R",
   "Symbol": "Device:R",
-  "Value": "240K",
+  "Value": "220K",
   "Footprint": "Resistor_SMD:R_1206_3216Metric",
-  "Description": "Resistor 240K 1% 250mW 200V 1206",
+  "Description": "Resistor 220K 1% 250mW 200V 1206",
   "Datasheet": "",
   "Keywords": "Res Resistor",
   "CustomFields": {
@@ -13,7 +13,7 @@
     "OC_CONRAD": "",
     "OC_FARNELL": "",
     "OC_LCSC": "",
-    "OC_MOUSER": "652-CR1206FX-2403ELF",
+    "OC_MOUSER": "652-CR1206FX-2203ELF",
     "OC_REICHELT": ""
   }
 }
