@@ -1,0 +1,19 @@
+{
+  "Library": "_Filter",
+  "Reference": "FL",
+  "Symbol": "Device:Filter_EMI_LL",
+  "Value": "744822301",
+  "Footprint": "Inductor_THT:L_CommonMode_Wuerth_WE-CMB-S",
+  "Description": "WE-CMB Common Mode Power Line Choke, L=1mH, IR=3A, VR=250VAC, RDC=35mR",
+  "Datasheet": "https://www.we-online.com/components/products/datasheet/744822301.pdf",
+  "Keywords": "",
+  "CustomFields": {
+    "MF": "Wuerth Elektronik",
+    "MPN": "744822301",
+    "OC_CONRAD": "",
+    "OC_FARNELL": "",
+    "OC_LCSC": "",
+    "OC_MOUSER": "",
+    "OC_REICHELT": ""
+  }
+}

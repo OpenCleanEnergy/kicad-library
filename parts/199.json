@@ -1,0 +1,19 @@
+{
+  "Library": "_Filter",
+  "Reference": "FL",
+  "Symbol": "Device:Filter_EMI_LL",
+  "Value": "744841330",
+  "Footprint": "Inductor_THT:L_CommonMode_Wuerth_WE-CMB-XS",
+  "Description": "WE-CMB NiZn Common Mode Power Line Choke, L=30uH, IR=3A, VR=250VAC, RDC=26mR",
+  "Datasheet": "https://www.we-online.com/components/products/datasheet/744841330.pdf",
+  "Keywords": "",
+  "CustomFields": {
+    "MF": "Wuerth Elektronik",
+    "MPN": "744841330",
+    "OC_CONRAD": "",
+    "OC_FARNELL": "",
+    "OC_LCSC": "",
+    "OC_MOUSER": "",
+    "OC_REICHELT": ""
+  }
+}
