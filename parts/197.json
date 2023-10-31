@@ -1,0 +1,19 @@
+{
+  "Library": "_R_0603",
+  "Reference": "R",
+  "Symbol": "Device:R",
+  "Value": "12.7K",
+  "Footprint": "Resistor_SMD:R_0603_1608Metric",
+  "Description": "Resistor 12.7K 1% 100mW 75V 0603",
+  "Datasheet": "",
+  "Keywords": "Res Resistor",
+  "CustomFields": {
+    "MF": "Vishay",
+    "MPN": "CRCW060312K7FKEA",
+    "OC_CONRAD": "",
+    "OC_FARNELL": "",
+    "OC_LCSC": "",
+    "OC_MOUSER": "71-CRCW0603-12.7K-E3",
+    "OC_REICHELT": ""
+  }
+}
