@@ -1,0 +1,19 @@
+{
+  "Library": "_C_Safety",
+  "Reference": "C",
+  "Symbol": "Device:C",
+  "Value": "330n_305VAC_X2",
+  "Footprint": "Capacitor_THT:C_Rect_L18.0mm_W8.0mm_P15.00mm_FKS3_FKP3",
+  "Description": "X2 Safety Capacitor, 330nF 20%, 305VAC, RM15",
+  "Datasheet": "https://www.tdk-electronics.tdk.com/inf/20/20/db/fc_2009/X2_B32921_928.pdf",
+  "Keywords": "",
+  "CustomFields": {
+    "MF": "TDK",
+    "MPN": "B32922C3334M",
+    "OC_CONRAD": "",
+    "OC_FARNELL": "",
+    "OC_LCSC": "",
+    "OC_MOUSER": "871-B32922C3334M289",
+    "OC_REICHELT": ""
+  }
+}
