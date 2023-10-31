@@ -1,0 +1,19 @@
+{
+  "Library": "_R_0805",
+  "Reference": "R",
+  "Symbol": "Device:R",
+  "Value": "316K",
+  "Footprint": "Resistor_SMD:R_0805_2012Metric",
+  "Description": "Resistor 316K 1% 125mW 150V 0805",
+  "Datasheet": "",
+  "Keywords": "Res Resistor",
+  "CustomFields": {
+    "MF": "0805W8F3163T5E",
+    "MPN": "UNI-ROYAL",
+    "OC_CONRAD": "",
+    "OC_FARNELL": "",
+    "OC_LCSC": "",
+    "OC_MOUSER": "303-0805W8F3163T5E",
+    "OC_REICHELT": ""
+  }
+}
