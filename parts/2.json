@@ -1,18 +1,19 @@
 {
-  "customFields": {
-    "MF": "",
-    "MPN": "",
+  "Library": "_R_0603",
+  "Reference": "R",
+  "Symbol": "Device:R",
+  "Value": "10K",
+  "Footprint": "Resistor_SMD:R_0603_1608Metric",
+  "Description": "Resistor 10K 1% 100mW 75V 0603",
+  "Datasheet": "",
+  "Keywords": "Res Resistor",
+  "CustomFields": {
+    "MF": "UNI-ROYAL",
+    "MPN": "0603WAF1002T5E",
     "OC_CONRAD": "",
     "OC_FARNELL": "",
-    "OC_MOUSER": "603-AC0603FR-0710KL",
+    "OC_LCSC": "C25804",
+    "OC_MOUSER": "",
     "OC_REICHELT": ""
-  },
-  "datasheet": "",
-  "description": "Resistor 10K 1% 100mW 75V 0603",
-  "footprint": "Resistor_SMD:R_0603_1608Metric",
-  "keywords": "Res Resistor",
-  "library": "_R_0603",
-  "reference": "R",
-  "symbol": "Device:R",
-  "value": "10K"
+  }
 }
