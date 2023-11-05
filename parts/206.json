@@ -1,0 +1,19 @@
+{
+  "Library": "_R_0603",
+  "Reference": "R",
+  "Symbol": "Device:R",
+  "Value": "330K",
+  "Footprint": "Resistor_SMD:R_0603_1608Metric",
+  "Description": "Resistor 330K 1% 100mW 75V 0603",
+  "Datasheet": "",
+  "Keywords": "Res Resistor",
+  "CustomFields": {
+    "MF": "UNI-ROYAL",
+    "MPN": "0603WAF3303T5E",
+    "OC_CONRAD": "",
+    "OC_FARNELL": "",
+    "OC_LCSC": "C23137",
+    "OC_MOUSER": "",
+    "OC_REICHELT": ""
+  }
+}
