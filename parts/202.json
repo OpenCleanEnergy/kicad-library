@@ -1,0 +1,19 @@
+{
+  "Library": "_Driver_FET",
+  "Reference": "U",
+  "Symbol": "Driver_FET:1EDN7550B",
+  "Value": "1EDN7550B",
+  "Footprint": "Package_TO_SOT_SMD:SOT-23-6",
+  "Description": "Single-Channel EiceDRIVER With True Differential Inputs, 4V UVLO, \u002B4/-8A, SOT-23-6",
+  "Datasheet": "https://www.infineon.com/dgdl/Infineon-1EDN7550B-DS-v02_00-EN.pdf?fileId=5546d46262b31d2e01635d9799ef264f",
+  "Keywords": "Gate Driver",
+  "CustomFields": {
+    "MF": "Infineon",
+    "MPN": "1EDN7550BXTSA1",
+    "OC_CONRAD": "",
+    "OC_FARNELL": "",
+    "OC_LCSC": "C3655822",
+    "OC_MOUSER": " 726-1EDN7550BXTSA1 ",
+    "OC_REICHELT": ""
+  }
+}
