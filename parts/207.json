@@ -5,7 +5,7 @@
   "Value": "RT424012",
   "Footprint": "Relay_THT:Relay_DPDT_Schrack-RT2-FormC_RM5mm",
   "Description": "DPDT, Power Relay, Power Rating: 8A / 250VAC, Coil: 12V / 400mW",
-  "Datasheet": "https://www.te.com/usa-en/product-6-1393243-3.datasheet.pdf",
+  "Datasheet": "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc\u0026DocId=Data\u002BSheet%7FRT2%7F2%7Fpdf%7FEnglish%7FENG_DS_RT2_2.pdf%7F6-1393243-3",
   "Keywords": "",
   "CustomFields": {
     "MF": "TE Connectivity",
