@@ -1,0 +1,19 @@
+{
+  "Library": "_Relay",
+  "Reference": "K",
+  "Symbol": "Relay:Relay_DPDT",
+  "Value": "RT424012",
+  "Footprint": "Relay_THT:Relay_DPDT_Schrack-RT2-FormC_RM5mm",
+  "Description": "DPDT, Power Relay, Power Rating: 8A / 250VAC, Coil: 12V / 400mW",
+  "Datasheet": "https://www.te.com/usa-en/product-6-1393243-3.datasheet.pdf",
+  "Keywords": "",
+  "CustomFields": {
+    "MF": "TE Connectivity",
+    "MPN": "RT424012",
+    "OC_CONRAD": "",
+    "OC_FARNELL": "RT424-12",
+    "OC_LCSC": "C1524591",
+    "OC_MOUSER": "655-RT424012",
+    "OC_REICHELT": ""
+  }
+}
