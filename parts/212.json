@@ -2,7 +2,7 @@
   "Library": "_C_0805",
   "Reference": "C",
   "Symbol": "Device:C",
-  "Value": "2.2nF_50V",
+  "Value": "2n2_50V",
   "Footprint": "Capacitor_SMD:C_0805_2012Metric",
   "Description": "Capacitor 2.2nF 50V 0805 C0G 5%",
   "Datasheet": "https://product.samsungsem.com/mlcc/CL21C222JBFNNN.do",
