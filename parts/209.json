@@ -1,0 +1,19 @@
+{
+  "Library": "_L_Power",
+  "Reference": "L",
+  "Symbol": "Device:L",
+  "Value": "270uH@0.6A",
+  "Footprint": "OpenCE:L_Bourns_SRR1205",
+  "Description": "Shielded High Power Inductor 270uH@0.6A (\u00B110%) 1000m\u03A9 SRF 2.5MHz",
+  "Datasheet": "http://www.bourns.com/docs/Product-Datasheets/SRR1205.pdf",
+  "Keywords": "shielded power inductor",
+  "CustomFields": {
+    "MF": "Bourns",
+    "MPN": "SRR1205-271KL",
+    "OC_CONRAD": "",
+    "OC_FARNELL": "",
+    "OC_LCSC": "",
+    "OC_MOUSER": "652-SRR1205-271KL",
+    "OC_REICHELT": ""
+  }
+}
