@@ -1,0 +1,19 @@
+{
+  "Library": "_Amplifier_Current",
+  "Reference": "U",
+  "Symbol": "Sensor_Current:ACS712xLCTR-05B",
+  "Value": "MCS1802GS-05",
+  "Footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "Description": "Linear Hall-Effect Current Sensor, 3.3V Single Supply, \u00B15A Bi-directional Range, \u00B12.5% Accuracy Over Temperature, 8.5mA Supply Current",
+  "Datasheet": "https://www.monolithicpower.com/en/documentview/productdocument/index/version/2/document_type/Datasheet/lang/en/sku/MCS1802/",
+  "Keywords": "Hall Current Sensor",
+  "CustomFields": {
+    "MF": "MPS",
+    "MPN": "MCS1802GS-05",
+    "OC_CONRAD": "",
+    "OC_FARNELL": "",
+    "OC_LCSC": "",
+    "OC_MOUSER": "946-MCS1802GS-05-P",
+    "OC_REICHELT": ""
+  }
+}
