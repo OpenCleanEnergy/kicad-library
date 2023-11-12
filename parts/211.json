@@ -1,0 +1,19 @@
+{
+  "Library": "_C_1206",
+  "Reference": "C",
+  "Symbol": "Device:C",
+  "Value": "2.2u_50V",
+  "Footprint": "Capacitor_SMD:C_1206_3216Metric",
+  "Description": "Capacitor 1206 2.2uF 50V X7R 10%",
+  "Datasheet": "https://product.samsungsem.com/mlcc/CL31B225KBHNNN.do",
+  "Keywords": "Cap Capacitor",
+  "CustomFields": {
+    "MF": "Samsung Electro-Mechanics",
+    "MPN": "CL31B225KBHNNNE",
+    "OC_CONRAD": "",
+    "OC_FARNELL": "",
+    "OC_LCSC": "C50254",
+    "OC_MOUSER": "",
+    "OC_REICHELT": ""
+  }
+}
