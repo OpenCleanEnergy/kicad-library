@@ -1,0 +1,19 @@
+{
+  "Library": "_Comparator",
+  "Reference": "U",
+  "Symbol": "Comparator:MCP6561-OT",
+  "Value": "MCP6561-OT",
+  "Footprint": "Package_TO_SOT_SMD:SOT-23-5",
+  "Description": "Single Low-Power Push-Pull Comparator, 1.8V - 5.5V",
+  "Datasheet": "https://ww1.microchip.com/downloads/aemDocuments/documents/MSLD/ProductDocuments/DataSheets/MCP6561-1R-1U-2-4-1.8V-Low-Power-Push-Pull-Output-Comparator-DS20002139E.pdf",
+  "Keywords": "",
+  "CustomFields": {
+    "MF": "Microchip",
+    "MPN": "MCP6561T-E/OT",
+    "OC_CONRAD": "",
+    "OC_FARNELL": "",
+    "OC_LCSC": "C117501",
+    "OC_MOUSER": "579-MCP6561T-E/OT",
+    "OC_REICHELT": ""
+  }
+}

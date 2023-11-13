@@ -2,7 +2,7 @@
   "Library": "_Comparator",
   "Reference": "U",
   "Symbol": "Comparator:MCP6567",
-  "Value": "MCP6567-E-SN",
+  "Value": "MCP6567-SN",
   "Footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
   "Description": "Dual Low-Power Open-Drain Comparator, 1.8V - 5.5V",
   "Datasheet": "https://ww1.microchip.com/downloads/aemDocuments/documents/MSLD/ProductDocuments/DataSheets/MCP6566-6R-6U-7-9-1.8V-Low-Power-Open-Drain-Output-Comparator-DS20002143G.pdf",
