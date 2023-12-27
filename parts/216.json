@@ -1,0 +1,19 @@
+{
+  "Library": "_Logic",
+  "Reference": "U",
+  "Symbol": "74xx:74LS08",
+  "Value": "74HC08D",
+  "Footprint": "Package_SO:SO-14_3.9x8.65mm_P1.27mmorder",
+  "Description": "Quad 2-input AND gate",
+  "Datasheet": "https://assets.nexperia.com/documents/data-sheet/74HC_HCT08.pdf",
+  "Keywords": "",
+  "CustomFields": {
+    "MF": "Nexperia",
+    "MPN": "74HC08D",
+    "OC_CONRAD": "",
+    "OC_FARNELL": "",
+    "OC_LCSC": "C5593",
+    "OC_MOUSER": "771-74HC08D-T",
+    "OC_REICHELT": "74HC 08D NXP"
+  }
+}
