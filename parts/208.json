@@ -1,5 +1,5 @@
 {
-  "Library": "_Amplifier_Current",
+  "Library": "_Sensor_Current",
   "Reference": "U",
   "Symbol": "Sensor_Current:ACS712xLCTR-05B",
   "Value": "MCS1802GS-05",
