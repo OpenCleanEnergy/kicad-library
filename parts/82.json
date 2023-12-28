@@ -4,7 +4,7 @@
   "Symbol": "Device:R",
   "Value": "20mR",
   "Footprint": "Resistor_SMD:R_1020_2550Metric",
-  "Description": "Resistor 20mR 1% 21W 1020",
+  "Description": "Resistor 20mR 1% 2W 1020",
   "Datasheet": "",
   "Keywords": "Res Resistor",
   "CustomFields": {
@@ -13,7 +13,7 @@
     "OC_CONRAD": "",
     "OC_FARNELL": "",
     "OC_LCSC": "",
-    "OC_MOUSER": "",
+    "OC_MOUSER": "667-ERJ-C1CFR02U",
     "OC_REICHELT": ""
   }
 }
