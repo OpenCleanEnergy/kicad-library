@@ -1,0 +1,19 @@
+{
+  "Library": "_C_0603",
+  "Reference": "C",
+  "Symbol": "Device:C",
+  "Value": "33n_50V",
+  "Footprint": "Capacitor_SMD:C_0603_1608Metric",
+  "Description": "Capacitor 33nF 50V X7R 10% 0603",
+  "Datasheet": "",
+  "Keywords": "Cap Capacitor",
+  "CustomFields": {
+    "MF": "",
+    "MPN": "",
+    "OC_CONRAD": "",
+    "OC_FARNELL": "",
+    "OC_LCSC": "C21117",
+    "OC_MOUSER": "",
+    "OC_REICHELT": ""
+  }
+}
