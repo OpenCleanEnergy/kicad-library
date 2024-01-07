@@ -1,0 +1,19 @@
+{
+  "Library": "_Analog_ADC",
+  "Reference": "U",
+  "Symbol": "OpenCE:ADE7912",
+  "Value": "ADE7912",
+  "Footprint": "Package_SO:SOIC-20W_7.5x15.4mm_P1.27mm",
+  "Description": "2-Channel, Isolated, Sigma-Delta ADC with SPI, Current Channel, Voltage Channel",
+  "Datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/ade7912_7913.pdf",
+  "Keywords": "",
+  "CustomFields": {
+    "MF": "Analog Devices",
+    "MPN": "ADE7912ARIZ",
+    "OC_CONRAD": "",
+    "OC_FARNELL": "4017230",
+    "OC_LCSC": "",
+    "OC_MOUSER": "584-ADE7912ARIZ-RL",
+    "OC_REICHELT": ""
+  }
+}
