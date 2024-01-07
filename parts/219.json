@@ -1,0 +1,19 @@
+{
+  "Library": "_C_0805",
+  "Reference": "C",
+  "Symbol": "Device:C",
+  "Value": "4u7_25V",
+  "Footprint": "Capacitor_SMD:C_0805_2012Metric",
+  "Description": "Capacitor 4.7uF 25V 0805 X5R 10%",
+  "Datasheet": "",
+  "Keywords": "Cap Capacitor",
+  "CustomFields": {
+    "MF": "",
+    "MPN": "",
+    "OC_CONRAD": "",
+    "OC_FARNELL": "",
+    "OC_LCSC": "C1779",
+    "OC_MOUSER": "80-C0805C475K3P",
+    "OC_REICHELT": "KEM X5R0805 4,7U"
+  }
+}
