@@ -1,0 +1,19 @@
+{
+  "Library": "_Oscillator",
+  "Reference": "Y",
+  "Symbol": "Oscillator:ASE-xxxMHz",
+  "Value": "DSC1001-4.096MHz",
+  "Footprint": "Oscillator:Oscillator_SMD_Abracon_ASE-4Pin_3.2x2.5mm",
+  "Description": "Standard Clock Oscillator 4.096MHz 1.8-3.3V 50ppm 6mA",
+  "Datasheet": "https://ww1.microchip.com/downloads/aemDocuments/documents/TCG/ProductDocuments/DataSheets/DSC1001-3-4-1.8V-3.3V-Low-Power-Precision-CMOS-Oscillators-DS20005529.pdf",
+  "Keywords": "Clock Oscillator",
+  "CustomFields": {
+    "MF": "Microchip",
+    "MPN": "DSC1001CI1-004.0960T",
+    "OC_CONRAD": "",
+    "OC_FARNELL": "",
+    "OC_LCSC": "",
+    "OC_MOUSER": "579-001CI10040960T",
+    "OC_REICHELT": ""
+  }
+}
