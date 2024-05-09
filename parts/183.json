@@ -1,19 +1,19 @@
 {
   "Library": "_Transformer",
   "Reference": "T",
-  "Symbol": "OpenCE:WE_760895651",
-  "Value": "760895651",
-  "Footprint": "OpenCE:WE-760895651",
+  "Symbol": "OpenCE:WE-LLCR_760895631",
+  "Value": "760895631",
+  "Footprint": "OpenCE:WE-LLCR_ETD39",
   "Description": "WE-LLCR Resonant Converter, 150-250 W, Input Voltage 360-400 V, Output Voltage 48V, switching frequency 70-120 kHz",
-  "Datasheet": "https://www.we-online.com/components/products/datasheet/760895651.pdf",
+  "Datasheet": "https://www.we-online.com/components/products/datasheet/760895631.pdf",
   "Keywords": "Transformer",
   "CustomFields": {
     "MF": "Wurth Elektronik",
-    "MPN": "760895651",
+    "MPN": "760895631",
     "OC_CONRAD": "",
     "OC_FARNELL": "",
     "OC_LCSC": "",
-    "OC_MOUSER": "",
-    "OC_REICHELT": "150.06-1"
+    "OC_MOUSER": "710-760895631 ",
+    "OC_REICHELT": ""
   }
 }
