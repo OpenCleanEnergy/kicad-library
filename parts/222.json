@@ -1,0 +1,19 @@
+{
+  "Library": "_Regulator_Controller",
+  "Reference": "U",
+  "Symbol": "OpenCE:ICE2HS01G",
+  "Value": "ICE2HS01G",
+  "Footprint": "OpenCE:PG_DSO_20_45",
+  "Description": "High Performance Resonant Mode Controller for Half-bridge LLC Resonant Converter, 30kHz~1MHz switching frequency range",
+  "Datasheet": "https://www.infineon.com/dgdl/Infineon-ICE2HS01G-DS-v02_01-en.pdf?fileId=db3a30432a40a650012a458289712b4c",
+  "Keywords": "LLC Controller",
+  "CustomFields": {
+    "MF": "Infineon",
+    "MPN": "ICE2HS01G",
+    "OC_CONRAD": "",
+    "OC_FARNELL": "",
+    "OC_LCSC": "",
+    "OC_MOUSER": "726-ICE2HS01G",
+    "OC_REICHELT": ""
+  }
+}
