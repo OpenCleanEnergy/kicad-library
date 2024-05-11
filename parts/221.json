@@ -1,0 +1,19 @@
+{
+  "Library": "_Regulator_Controller",
+  "Reference": "U",
+  "Symbol": "OpenCE:UCC25660",
+  "Value": "UCC25660",
+  "Footprint": "Package_SO:SOIC-14-16_3.9x9.9mm_P1.27mm",
+  "Description": "UCC25660 750kHz Wide VIN/VOUT Range LLC Controller Optimized for Light-Load Efficiency",
+  "Datasheet": "https://www.ti.com/lit/ds/symlink/ucc25660.pdf",
+  "Keywords": "LLC Controller",
+  "CustomFields": {
+    "MF": "TI",
+    "MPN": "UCC256601DDBR ",
+    "OC_CONRAD": "",
+    "OC_FARNELL": "",
+    "OC_LCSC": "",
+    "OC_MOUSER": "595-UCC256601DDBR",
+    "OC_REICHELT": ""
+  }
+}
