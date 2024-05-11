@@ -1,0 +1,19 @@
+{
+  "Library": "_Driver_FET",
+  "Reference": "U",
+  "Symbol": "OpenCE:2EDR7259X",
+  "Value": "2EDR7259X",
+  "Footprint": "OpenCE:DSO14-300mi",
+  "Description": "2-channel isolated gate driver for Si and SiC MOSFETs and GaN HEMTs power switches",
+  "Datasheet": "https://www.infineon.com/dgdl/Infineon-2EDR8259H-DataSheet-v01_03-EN.pdf?fileId=8ac78c8c85c38e410185c577ad3e1b1b",
+  "Keywords": "Gate Driver",
+  "CustomFields": {
+    "MF": "Infineon",
+    "MPN": "2EDR7259X",
+    "OC_CONRAD": "",
+    "OC_FARNELL": "",
+    "OC_LCSC": "C3655822",
+    "OC_MOUSER": "726-2EDR7259XXUMA1",
+    "OC_REICHELT": ""
+  }
+}
